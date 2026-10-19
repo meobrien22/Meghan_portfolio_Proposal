@@ -4,11 +4,11 @@ An independent copy of Meghan Fasano’s Peerless portfolio, prepared for GitHub
 
 ## Publish
 
-In **Settings → Pages**, select **Deploy from a branch**, then **main** and **/docs**, and click **Save**.
+In **Settings → Pages**, select **Deploy from a branch**, then **main** and **/ (root)**, and click **Save**.
 
 Expected site address: https://meobrien22.github.io/Meghan_portfolio_Proposal/
 
-The `docs/` directory contains the ready-to-publish website, including all slide images, PDFs, fonts and other assets. `.nojekyll` keeps Next.js assets available on GitHub Pages.
+The repository root contains the ready-to-publish website, including all slide images, PDFs, fonts and other assets. `.nojekyll` keeps Next.js assets available on GitHub Pages.
 
 ## Edit and rebuild
 
@@ -26,7 +26,7 @@ pnpm dev
 pnpm build
 ```
 
-The build exports the site to `out/`, then refreshes `docs/`. Commit both edited source files and `docs/` to publish updates. The base path is `/Meghan_portfolio_Proposal`; local preview uses that same path.
+The build exports the site to `out/`, then refreshes the published files at the repository root. Commit both edited source files and generated site files to publish updates. The base path is `/Meghan_portfolio_Proposal`; local preview uses that same path.
 
 ## Content notes
 
