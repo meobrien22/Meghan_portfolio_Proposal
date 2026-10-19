@@ -93,3 +93,13 @@
 @media(max-width:650px){.about-executive .ae-hero{grid-template-columns:1fr;padding:24px 0;gap:25px}.ae-hero h1{font-size:38px;letter-spacing:-1.4px}.ae-intro{font-size:17px}.ae-hero-note{font-size:15px}.ae-portrait{max-width:240px;margin:0 auto!important}.ae-proof-strip{grid-template-columns:1fr 1fr}.ae-proof-strip>div:last-child{grid-column:1/-1}.ae-section{padding:32px 0}.ae-section h2,.ae-human h2{font-size:31px}.ae-section-heading{gap:18px}.ae-federal-experience{padding:17px}.ae-capabilities h3{font-size:24px}.ae-cap-content,.ae-capability--workshop .ae-cap-content{padding:20px}.ae-capabilities p{font-size:16px}.ae-data-story{padding:22px}.folio-header nav{font-size:13px;gap:18px}.folio-name{font-size:21px}.folio-name em{font-size:27px}}
 @media(max-width:420px){.folio-wrap{padding-inline:20px}.folio-header{padding-block:14px 8px;row-gap:3px}.folio-header nav{padding-top:0}.folio-name{font-size:19px}.folio-name em{font-size:25px}.ae-hero h1{font-size:35px}.ae-proof-strip>div{padding:12px!important}.ae-proof-strip strong{font-size:28px}.ae-section h2{font-size:29px}}
 @media(prefers-reduced-motion:reduce){.case-art:hover .case-art__workspace{top:27%;transform:perspective(1100px) rotateY(-7deg) rotateZ(-3deg) scale(.68)}}
+
+/* Lead directly from the introduction into the portfolio examples. */
+.ae-work-examples{padding-top:22px}
+.ae-work-examples .ae-section-heading{margin-bottom:20px;align-items:end}
+.ae-work-examples h2{margin-top:8px}
+.ae-work-examples+.ae-proof-strip{padding-top:12px}
+@media(min-width:900px) and (max-height:800px){
+  .ae-work-examples{padding-top:14px}
+  .ae-work-examples .ae-section-heading{margin-bottom:16px}
+}
