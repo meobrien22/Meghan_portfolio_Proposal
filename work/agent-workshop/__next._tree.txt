@@ -1,4 +1,4 @@
 :HL["/Meghan_portfolio_Proposal/_next/static/css/023e00a8c1842966.css","style"]
 :HL["/Meghan_portfolio_Proposal/_next/static/css/a584093a95bc7767.css","style"]
 :HL["/Meghan_portfolio_Proposal/_next/static/css/270ae5b183b26252.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"agent-workshop","siblings":["microsoft-launch-tool"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"iFlo5CWL8Bg_TSQLekfS-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"agent-workshop","siblings":["microsoft-launch-tool"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5Y8BiewAq0NdToV6vYyg4"}
