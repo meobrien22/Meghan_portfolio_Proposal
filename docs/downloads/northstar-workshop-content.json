@@ -1,0 +1,938 @@
+{
+  "title": "From a human job to a useful AI agent",
+  "organization": "Northstar Retail",
+  "disclosure": "Illustrative AI agent workshop. Northstar Retail, research notes, scores and decisions are simulated. No live agents, customer systems or measured results.",
+  "challenge": "A delayed appliance delivery puts a customer’s day on hold. Support has scattered order details and conflicting dates. How might we help the customer choose a reliable next step without repeating their story?",
+  "recommendation": "Prototype one delivery-resolution agent with read-only tools and a human approval step. Compare a specialist agent team only where separate responsibilities improve the job.",
+  "scope": "One delayed-delivery journey, sample order data, no live refunds or booking changes. A prototype study precedes a limited pilot.",
+  "investment": "Proposed: one facilitated workshop after research prework, then two weeks for prototype testing. A service owner, researcher, designer, agent builder and operations partner share the work.",
+  "notes": [
+    {
+      "id": "N01",
+      "text": "I gave my order details to the store, then had to repeat everything to support.",
+      "role": "Customer A",
+      "source": "Simulated workshop input 1",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Continuity",
+      "insight": "I01"
+    },
+    {
+      "id": "N02",
+      "text": "I cannot see which next step the previous adviser promised.",
+      "role": "Frontline adviser",
+      "source": "Simulated workshop input 2",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Continuity",
+      "insight": "I01"
+    },
+    {
+      "id": "N03",
+      "text": "The app said Tuesday. Support said Thursday. I still did not know which was confirmed.",
+      "role": "Customer B",
+      "source": "Simulated workshop input 3",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N04",
+      "text": "A shipping scan is an estimate; it is not an approved delivery appointment.",
+      "role": "Operations partner",
+      "source": "Simulated workshop input 4",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N05",
+      "text": "Tell me the options, but do not change my order without asking me.",
+      "role": "Customer C",
+      "source": "Simulated workshop input 5",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    },
+    {
+      "id": "N06",
+      "text": "I want to solve it myself if the answer is clear. Otherwise, give a person the context.",
+      "role": "Customer D",
+      "source": "Simulated workshop input 6",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    },
+    {
+      "id": "N07",
+      "text": "A compact, editable case brief could prevent repeated explanations.",
+      "role": "Service designer",
+      "source": "Simulated workshop input 7",
+      "phase": "Discover / design",
+      "category": "Interpretation",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Continuity",
+      "insight": "I01"
+    },
+    {
+      "id": "N08",
+      "text": "Pass order ID, the customer’s goal and verified facts between agent roles.",
+      "role": "Agent builder",
+      "source": "Simulated workshop input 8",
+      "phase": "Discover / design",
+      "category": "Idea",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Continuity",
+      "insight": "I01"
+    },
+    {
+      "id": "N09",
+      "text": "A stale lookup could make a fluent answer sound more certain than the source.",
+      "role": "Researcher",
+      "source": "Simulated workshop input 9",
+      "phase": "Discover / design",
+      "category": "Risk",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N10",
+      "text": "Show the source and timestamp; escalate conflicting dates instead of choosing one.",
+      "role": "Operations partner",
+      "source": "Simulated workshop input 10",
+      "phase": "Discover / design",
+      "category": "Opportunity",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N11",
+      "text": "Who can authorize a booking change, and how is that approval recorded?",
+      "role": "Service owner",
+      "source": "Simulated workshop input 11",
+      "phase": "Discover / design",
+      "category": "Open question",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    },
+    {
+      "id": "N12",
+      "text": "Human approval must be explicit before any consequential order change.",
+      "role": "Service designer",
+      "source": "Simulated workshop input 12",
+      "phase": "Discover / design",
+      "category": "Idea",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    }
+  ],
+  "insights": [
+    {
+      "id": "I01",
+      "title": "Carry the story forward",
+      "text": "Repeated explanations suggest a context gap. Test whether a shared case brief reduces rework without carrying unnecessary personal data.",
+      "notes": [
+        "N01",
+        "N02",
+        "N07",
+        "N08"
+      ],
+      "opportunity": "O01 · Share the customer’s goal and verified facts across permitted roles.",
+      "decision": "D01 · Prototype one agent with a structured case brief; compare specialist handoffs."
+    },
+    {
+      "id": "I02",
+      "title": "Match confidence to the evidence",
+      "text": "Conflicting dates suggest that speed alone cannot establish trust. The response needs source freshness and a clear confirmation owner.",
+      "notes": [
+        "N03",
+        "N04",
+        "N09",
+        "N10"
+      ],
+      "opportunity": "O02 · Retrieve the source, timestamp and uncertainty alongside the answer.",
+      "decision": "D02 · Withhold an unverified promise and route conflicts to operations."
+    },
+    {
+      "id": "I03",
+      "title": "Keep people in control",
+      "text": "Some customers want self-service while others need help. Both need a visible boundary between an explanation and an authorized action.",
+      "notes": [
+        "N05",
+        "N06",
+        "N11",
+        "N12"
+      ],
+      "opportunity": "O03 · Offer a reviewable next step and a context-preserving human handoff.",
+      "decision": "D03 · Require human approval before changing a booking or issuing a refund."
+    }
+  ],
+  "agenda": [
+    {
+      "time": "09:00–09:35",
+      "title": "Discover",
+      "objective": "Find the progress a customer needs when a delivery goes wrong.",
+      "method": "Replay a recent incident. Listen for the trigger, workaround and emotional stakes.",
+      "prompt": "“I have taken time off work. I need a date I can actually plan around.”",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Replay a recent incident. Listen for the trigger, workaround and emotional stakes.",
+      "artifact": "Evidence of the job and its context",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    },
+    {
+      "time": "09:35–10:05",
+      "title": "Define",
+      "objective": "Turn the story into a clear job and a measurable outcome.",
+      "method": "Write “When… I want… so I can…” and agree what successful progress looks like.",
+      "prompt": "The goal is a dependable next step, with fewer repeated explanations.",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Write “When… I want… so I can…” and agree what successful progress looks like.",
+      "artifact": "A job story and success measures",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    },
+    {
+      "time": "10:05–10:15",
+      "title": "Break",
+      "objective": "Pause.",
+      "method": "Break",
+      "prompt": "What needs clarification?",
+      "response": "",
+      "action": "Rest",
+      "artifact": "",
+      "why": "",
+      "transition": "",
+      "debrief": ""
+    },
+    {
+      "time": "10:15–10:55",
+      "title": "Map",
+      "objective": "Map the job, the information it needs and the decisions people own.",
+      "method": "Walk the current journey. Mark retrieval, judgment, handoffs and missing evidence.",
+      "prompt": "Retrieve the order. Check freshness. Explain options. Let a person approve a change.",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Walk the current journey. Mark retrieval, judgment, handoffs and missing evidence.",
+      "artifact": "A task map with human and agent roles",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    },
+    {
+      "time": "10:55–11:45",
+      "title": "Design",
+      "objective": "Design the smallest agent setup that can complete the job.",
+      "method": "Compare one agent with a specialist team. Define tools, context, handoffs and boundaries.",
+      "prompt": "Triage understands the request. Lookup checks the facts. Resolution proposes the next step.",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Compare one agent with a specialist team. Define tools, context, handoffs and boundaries.",
+      "artifact": "An agent blueprint and clear responsibilities",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    },
+    {
+      "time": "11:45–12:30",
+      "title": "Lunch",
+      "objective": "Pause.",
+      "method": "Lunch",
+      "prompt": "",
+      "response": "",
+      "action": "Rest",
+      "artifact": "",
+      "why": "",
+      "transition": "",
+      "debrief": ""
+    },
+    {
+      "time": "12:30–13:30",
+      "title": "Prototype",
+      "objective": "Make the agent’s behavior visible before connecting real systems.",
+      "method": "Build a small conversation with sample tools, explicit uncertainty and a review step.",
+      "prompt": "See what the customer receives and how each agent reaches that response.",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Build a small conversation with sample tools, explicit uncertainty and a review step.",
+      "artifact": "A testable conversation and execution trace",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    },
+    {
+      "time": "13:30–13:40",
+      "title": "Break",
+      "objective": "Pause.",
+      "method": "Break",
+      "prompt": "",
+      "response": "",
+      "action": "Rest",
+      "artifact": "",
+      "why": "",
+      "transition": "",
+      "debrief": ""
+    },
+    {
+      "time": "13:40–14:25",
+      "title": "Test",
+      "objective": "Test useful progress, including what happens when the data is wrong.",
+      "method": "Role-play realistic tasks. Observe comprehension, tool choices, recovery and handoffs.",
+      "prompt": "Try stale data, conflicting dates and a request outside the agent’s permissions.",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Role-play realistic tasks. Observe comprehension, tool choices, recovery and handoffs.",
+      "artifact": "A test scorecard and prioritized changes",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    },
+    {
+      "time": "14:25–14:50",
+      "title": "Pilot",
+      "objective": "Agree who will build, measure and improve the first bounded pilot.",
+      "method": "Review the evidence, name an owner and define advance, revise and stop gates.",
+      "prompt": "Begin with read-only access. Expand only when the evidence supports the next permission.",
+      "response": "Use the simulated Northstar example to make assumptions visible.",
+      "action": "Review the evidence, name an owner and define advance, revise and stop gates.",
+      "artifact": "A pilot brief, named owners and learning plan",
+      "why": "Build on the previous artifact and make the next decision explicit.",
+      "transition": "Carry the output into the next activity.",
+      "debrief": "What did we learn, what is still assumed and what changes next?"
+    }
+  ],
+  "roles": [
+    {
+      "name": "Facilitator / service designer",
+      "job": "Guide the job story, protect airtime and connect evidence to decisions."
+    },
+    {
+      "name": "Customer / research participant",
+      "job": "Describe a recent incident and judge whether the prototype supports real progress."
+    },
+    {
+      "name": "Frontline adviser",
+      "job": "Explain current workarounds and test proposed handoffs."
+    },
+    {
+      "name": "Agent builder / architect",
+      "job": "Define context, tools, permissions and single-agent versus multi-agent choices."
+    },
+    {
+      "name": "Operations / data owner",
+      "job": "Validate source reliability and take ownership of exceptions."
+    },
+    {
+      "name": "Service owner / sponsor",
+      "job": "Agree outcomes, resource boundaries and the pilot decision."
+    }
+  ],
+  "job": {
+    "statement": "When my appliance delivery is delayed, I want to know my verified options and who owns the next step, so I can reorganize my day without chasing different teams.",
+    "trigger": "A promised delivery window passes or two channels give conflicting dates.",
+    "functional": "Find a reliable next step and resolve the delivery exception without repeating context.",
+    "emotional": "Feel informed and in control when plans change.",
+    "social": "Coordinate confidently with the household and people covering work.",
+    "alternatives": "Call the store, message support, collect screenshots or wait without a plan.",
+    "push": "Repeated explanations, uncertain dates and time lost chasing updates.",
+    "pull": "A clear, sourced explanation and an accountable next step.",
+    "anxiety": "An agent might invent a date or change the order without permission.",
+    "habit": "Phone a familiar adviser to get a human commitment.",
+    "success": "Know what is verified, what is uncertain and who will act next."
+  },
+  "journey": [
+    {
+      "phase": "Recognize the problem",
+      "customer": "Customer explains the delayed delivery and desired outcome.",
+      "employee": "Capture the goal and ask only for missing essentials.",
+      "friction": "No unnecessary personal data",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "phase": "Check the facts",
+      "customer": "Operations owns source accuracy and delivery confirmation.",
+      "employee": "Retrieve order and shipping records; inspect timestamps.",
+      "friction": "No source, no invented answer",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "phase": "Compare options",
+      "customer": "Customer chooses the option that works for their circumstances.",
+      "employee": "Explain verified options and policy constraints.",
+      "friction": "Label uncertainty and cite the source",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "phase": "Resolve & follow through",
+      "customer": "Authorized adviser approves changes and owns exceptions.",
+      "employee": "Draft a case summary and route to the right owner.",
+      "friction": "No booking change or refund without approval",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    }
+  ],
+  "criteria": [
+    {
+      "id": "value",
+      "label": "Job completion",
+      "weight": 35,
+      "meaning": "1 = partial answer; 5 = clear progress on the core job"
+    },
+    {
+      "id": "trust",
+      "label": "Trust & control",
+      "weight": 25,
+      "meaning": "1 = unclear evidence or authority; 5 = visible sources and approval"
+    },
+    {
+      "id": "build",
+      "label": "Ease of building",
+      "weight": 20,
+      "meaning": "1 = complex dependencies; 5 = small, feasible first slice"
+    },
+    {
+      "id": "operate",
+      "label": "Ease of operating",
+      "weight": 10,
+      "meaning": "1 = hard to monitor; 5 = easy to inspect and support"
+    },
+    {
+      "id": "adapt",
+      "label": "Adaptability",
+      "weight": 10,
+      "meaning": "1 = rigid; 5 = responsibilities can evolve independently"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "single",
+      "title": "One agent + human approval",
+      "description": "One agent retrieves permitted data and proposes a reviewed next step.",
+      "scores": [
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "tradeoff": "Simple to test and operate. Keep the job and tool set small enough to inspect."
+    },
+    {
+      "id": "team",
+      "title": "Specialist agent team",
+      "description": "Triage, Lookup and Resolution share a structured case and escalate to a person.",
+      "scores": [
+        5,
+        4,
+        2,
+        2,
+        5
+      ],
+      "tradeoff": "Separates responsibilities, but adds handoffs, latency and coordination failure modes."
+    },
+    {
+      "id": "workflow",
+      "title": "Guided workflow + adviser",
+      "description": "A fixed lookup and routing flow with a person resolving exceptions.",
+      "scores": [
+        3,
+        5,
+        5,
+        5,
+        2
+      ],
+      "tradeoff": "A useful baseline when the process is predictable. Handles less ambiguity autonomously."
+    }
+  ],
+  "panels": [
+    {
+      "id": "P01",
+      "title": "Customer story",
+      "instruction": "Replay the incident before discussing technology.",
+      "fields": [
+        "Trigger: delayed appliance delivery",
+        "Workaround: repeated calls and screenshots",
+        "Desired progress: a reliable next step",
+        "Evidence: simulated customer and adviser statements"
+      ],
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "id": "P02",
+      "title": "JTBD canvas",
+      "instruction": "Define the progress and why it matters.",
+      "fields": [
+        "When my appliance delivery is delayed, I want to know my verified options and who owns the next step, so I can reorganize my day without chasing different teams.",
+        "A promised delivery window passes or two channels give conflicting dates.",
+        "Find a reliable next step and resolve the delivery exception without repeating context.",
+        "Feel informed and in control when plans change."
+      ],
+      "notes": [
+        "N05",
+        "N06"
+      ]
+    },
+    {
+      "id": "P03",
+      "title": "Outcomes & measures",
+      "instruction": "Define useful progress before choosing an agent.",
+      "fields": [
+        "Task success and time to a reliable next step",
+        "Repeated questions across channels",
+        "Understanding of confirmed versus uncertain dates",
+        "Customer control and adviser effort"
+      ],
+      "notes": [
+        "N01",
+        "N03"
+      ]
+    },
+    {
+      "id": "P04",
+      "title": "Job & data map",
+      "instruction": "Connect tasks, sources and human decisions.",
+      "fields": [
+        "Recognize the problem: Capture the goal and ask only for missing essentials.",
+        "Check the facts: Retrieve order and shipping records; inspect timestamps.",
+        "Compare options: Explain verified options and policy constraints.",
+        "Resolve & follow through: Draft a case summary and route to the right owner."
+      ],
+      "notes": [
+        "N02",
+        "N04"
+      ]
+    },
+    {
+      "id": "P05",
+      "title": "Opportunity & tradeoffs",
+      "instruction": "Compare alternatives on the same job.",
+      "fields": [
+        "One agent + human approval: Simple to test and operate. Keep the job and tool set small enough to inspect.",
+        "Specialist agent team: Separates responsibilities, but adds handoffs, latency and coordination failure modes.",
+        "Guided workflow + adviser: A useful baseline when the process is predictable. Handles less ambiguity autonomously."
+      ],
+      "notes": [
+        "N07",
+        "N09"
+      ]
+    },
+    {
+      "id": "P06",
+      "title": "Agent contracts",
+      "instruction": "Name the responsibility, tools, input and output.",
+      "fields": [
+        "Triage: Understand the customer’s goal and gather the minimum context. Tools: Case-intake form",
+        "Lookup: Check order, shipping status and source freshness. Tools: Read-only order lookup + shipment lookup",
+        "Resolution: Explain options and propose the next step. Tools: Approved policy search + draft-case tool",
+        "Human review: Resolve exceptions and authorize consequential changes. Tools: Approved service workflow"
+      ],
+      "notes": [
+        "N08",
+        "N11"
+      ]
+    },
+    {
+      "id": "P07",
+      "title": "Handoffs & permissions",
+      "instruction": "Make the boundary between advice and action explicit.",
+      "fields": [
+        "Carry the approved case brief and source timestamps",
+        "Keep order tools read-only",
+        "Ask for missing context; route conflicting data",
+        "Wait for authorized approval before an order change"
+      ],
+      "notes": [
+        "N10",
+        "N12"
+      ]
+    },
+    {
+      "id": "P08",
+      "title": "Conversation prototype",
+      "instruction": "Show the customer experience and the execution trace.",
+      "fields": [
+        "Request: My delivery is late. What can I do?",
+        "Retrieve: sample order and shipment record",
+        "Explain: status is unconfirmed; cite source",
+        "Offer: draft a handoff to an adviser"
+      ],
+      "notes": [
+        "N07",
+        "N10"
+      ]
+    },
+    {
+      "id": "P09",
+      "title": "Test scorecard",
+      "instruction": "Test the job, data quality and authority boundaries.",
+      "fields": [
+        "Clear source: Explain the unconfirmed status, cite the source and offer an adviser review.",
+        "Stale data: Withhold the promise, show the stale timestamp and request verification.",
+        "Conflicting dates: Surface the conflict and route it to operations; do not silently pick a date.",
+        "Missing order: Ask for a permitted lookup detail or offer secure human support.",
+        "Approval required: Draft the request and wait for authorized human review."
+      ],
+      "notes": [
+        "N09",
+        "N11"
+      ]
+    },
+    {
+      "id": "P10",
+      "title": "Decision log",
+      "instruction": "Keep evidence, dissent and ownership together.",
+      "fields": [
+        "Start with one agent and a structured case brief. Owner: Agent product owner",
+        "Keep order tools read-only and expose uncertainty. Owner: Operations + engineering leads",
+        "Require human approval for consequential changes. Owner: Service owner"
+      ],
+      "notes": [
+        "N08",
+        "N12"
+      ]
+    },
+    {
+      "id": "P11",
+      "title": "Pilot plan",
+      "instruction": "Define the scope, measures and learning loop.",
+      "fields": [
+        "30 days: Interview recent customers, establish baselines and test one-agent and specialist designs with sample data.",
+        "60 days: Connect approved read-only tools for a limited group after the test gates pass. Monitor exceptions and human review.",
+        "90 days: Compare the pilot with the baseline and decide whether to revise, stop or widen the scope."
+      ],
+      "notes": []
+    }
+  ],
+  "decisions": [
+    {
+      "id": "D01",
+      "phase": "Workshop close",
+      "decision": "Start with one agent and a structured case brief.",
+      "evidence": "I01 / N01, N02, N07, N08. Compare specialist handoffs with the same tasks.",
+      "dissent": "The architecture lead prefers separate agents for each responsibility.",
+      "owner": "Agent product owner",
+      "question": "Does role separation improve outcomes enough to justify added coordination?",
+      "next": "Compare both prototypes on the same test set before choosing a pilot design."
+    },
+    {
+      "id": "D02",
+      "phase": "Prototype boundary",
+      "decision": "Keep order tools read-only and expose uncertainty.",
+      "evidence": "I02 / N03, N04, N09, N10. Fluency cannot resolve conflicting sources.",
+      "dissent": "Operations asks whether visible uncertainty could increase contacts.",
+      "owner": "Operations + engineering leads",
+      "question": "Which system can confirm a delivery slot, and how fresh must it be?",
+      "next": "Validate source ownership, freshness checks and the conflict escalation path."
+    },
+    {
+      "id": "D03",
+      "phase": "Pilot gate",
+      "decision": "Require human approval for consequential changes.",
+      "evidence": "I03 / N05, N06, N11, N12. Customers retain control of proposed actions.",
+      "dissent": "The sponsor wants to test more automation sooner.",
+      "owner": "Service owner",
+      "question": "Can reviewers understand the evidence and complete handoffs reliably?",
+      "next": "Test approval comprehension, permissions and reviewer workload before expansion."
+    }
+  ],
+  "milestones": [
+    {
+      "day": "30",
+      "title": "Validate the job. Compare the prototypes.",
+      "action": "Interview recent customers, establish baselines and test one-agent and specialist designs with sample data.",
+      "owner": "Research + service design + agent builder",
+      "dependency": "Participant access, approved sample data and named service owner",
+      "measure": "Task completion, repeated questions, uncertainty comprehension and trace quality"
+    },
+    {
+      "day": "60",
+      "title": "Pilot one bounded workflow.",
+      "action": "Connect approved read-only tools for a limited group after the test gates pass. Monitor exceptions and human review.",
+      "owner": "Agent product owner + engineering + operations",
+      "dependency": "Source validation, access review, monitoring and a rollback path",
+      "measure": "Correct resolution, unsupported claims, escalation quality, latency and cost per resolved case"
+    },
+    {
+      "day": "90",
+      "title": "Learn before expanding.",
+      "action": "Compare the pilot with the baseline and decide whether to revise, stop or widen the scope.",
+      "owner": "Sponsor + service owner",
+      "dependency": "Evidence of useful outcomes and sustainable support workload",
+      "measure": "Customer progress, resolution time, repeat contacts and reviewer effort"
+    }
+  ],
+  "researchPrompts": [
+    "Tell me about the last delivery that did not go as planned.",
+    "What happened just before you sought help?",
+    "Walk me through the people and tools you tried, in order.",
+    "What did you have to repeat or work out yourself?",
+    "What made you trust or doubt an answer?",
+    "What consequences did the delay have for your day and other people?",
+    "What finally let you move forward? What remained unresolved?"
+  ],
+  "agreements": [
+    "Begin with the person and their circumstances.",
+    "Separate evidence, interpretation and ideas.",
+    "Write silently before discussion; make space for every voice.",
+    "Preserve dissent and assign a test to the disputed assumption.",
+    "Use consented, anonymized examples and minimum necessary data."
+  ],
+  "materials": [
+    "Customer-incident cards and JTBD canvas",
+    "Job-map panels, sticky notes, pens and voting dots",
+    "Agent role cards with input, output, tools and permissions",
+    "Sample order records and service policies",
+    "Conversation prototype and scenario test cards",
+    "Outcome scorecard, decision log and pilot canvas"
+  ],
+  "experiment": {
+    "hypothesis": "A sourced, context-preserving agent helps a customer choose a reliable next step without surrendering control.",
+    "participants": "Proposed formative study: 8 recent delayed-delivery customers and 4 frontline advisers. Include varied access needs. This is not a statistically representative sample.",
+    "tasks": [
+      "Explain what the agent verified and what remains uncertain.",
+      "Choose a useful next step without repeating key details.",
+      "Recover when records are stale, missing or conflicting.",
+      "Review a proposed order change and identify who may authorize it."
+    ],
+    "observation": "Observe unaided use. Capture task success, misunderstandings, repeated questions, tool traces and reviewer effort. Use consented, anonymized records.",
+    "thresholds": "Proposed gate: at least 6/8 customers complete critical tasks unaided; all 8 distinguish estimates from confirmed dates; at least 3/4 advisers can reuse the case. Every permission-boundary test must pass. Any unsupported promise or unauthorized action triggers redesign.",
+    "next": "Passing supports a limited pilot decision. Failing means revise the prompts, workflow, interface or underlying data, then test again. The on-site simulation is not evidence of live agent quality."
+  },
+  "invitation": "Join a facilitated AI agent design sprint: from the customer’s job to an agent blueprint, testable conversation and pilot plan. We will compare the simplest useful design with a coordinated agent team.",
+  "prework": "Before the session: gather consented recent customer incidents; anonymize relevant records; inventory available tools and data; bring service policies, a baseline and a sponsor decision. Without research access, treat all job stories as hypotheses.",
+  "contingency": "Missing evidence becomes a named research task. Disagreement becomes a comparison using the same customer job and test cases. If time is short, reduce prototype scope; retain the test and decision gates.",
+  "room": "Use seven activity zones around one shared wall. Place customer evidence and the job story first, then the job map, agent contracts, prototype, test scorecard and pilot plan. Provide a shared digital equivalent.",
+  "steps": [
+    {
+      "name": "Discover",
+      "phase": "EMPATHIZE",
+      "time": "35 MIN",
+      "photo": "discover-job",
+      "title": "Start with the human story.",
+      "action": "Find the progress a customer needs when a delivery goes wrong.",
+      "method": "Replay a recent incident. Listen for the trigger, workaround and emotional stakes.",
+      "example": "“I have taken time off work. I need a date I can actually plan around.”",
+      "output": "Evidence of the job and its context",
+      "activity": "Explore the evidence"
+    },
+    {
+      "name": "Define",
+      "phase": "DEFINE",
+      "time": "30 MIN",
+      "photo": "define-outcome",
+      "title": "Give the agent a job worth doing.",
+      "action": "Turn the story into a clear job and a measurable outcome.",
+      "method": "Write “When… I want… so I can…” and agree what successful progress looks like.",
+      "example": "The goal is a dependable next step, with fewer repeated explanations.",
+      "output": "A job story and success measures",
+      "activity": "Shape the job story"
+    },
+    {
+      "name": "Map",
+      "phase": "DEFINE",
+      "time": "40 MIN",
+      "photo": "map-workflow",
+      "title": "Find where AI can help.",
+      "action": "Map the job, the information it needs and the decisions people own.",
+      "method": "Walk the current journey. Mark retrieval, judgment, handoffs and missing evidence.",
+      "example": "Retrieve the order. Check freshness. Explain options. Let a person approve a change.",
+      "output": "A task map with human and agent roles",
+      "activity": "Explore the job map"
+    },
+    {
+      "name": "Design",
+      "phase": "IDEATE",
+      "time": "50 MIN",
+      "photo": "design-agents",
+      "title": "One agent. Or a team with purpose.",
+      "action": "Design the smallest agent setup that can complete the job.",
+      "method": "Compare one agent with a specialist team. Define tools, context, handoffs and boundaries.",
+      "example": "Triage understands the request. Lookup checks the facts. Resolution proposes the next step.",
+      "output": "An agent blueprint and clear responsibilities",
+      "activity": "Design the agent system"
+    },
+    {
+      "name": "Prototype",
+      "phase": "PROTOTYPE",
+      "time": "60 MIN",
+      "photo": "prototype-agent",
+      "title": "Turn the blueprint into an experience.",
+      "action": "Make the agent’s behavior visible before connecting real systems.",
+      "method": "Build a small conversation with sample tools, explicit uncertainty and a review step.",
+      "example": "See what the customer receives and how each agent reaches that response.",
+      "output": "A testable conversation and execution trace",
+      "activity": "Try the agent prototype"
+    },
+    {
+      "name": "Test",
+      "phase": "TEST",
+      "time": "45 MIN",
+      "photo": "test-agent",
+      "title": "Prove the job gets done.",
+      "action": "Test useful progress, including what happens when the data is wrong.",
+      "method": "Role-play realistic tasks. Observe comprehension, tool choices, recovery and handoffs.",
+      "example": "Try stale data, conflicting dates and a request outside the agent’s permissions.",
+      "output": "A test scorecard and prioritized changes",
+      "activity": "Run the test scenarios"
+    },
+    {
+      "name": "Pilot",
+      "phase": "LEARN & DELIVER",
+      "time": "25 MIN",
+      "photo": "plan-pilot",
+      "title": "Make the next step accountable.",
+      "action": "Agree who will build, measure and improve the first bounded pilot.",
+      "method": "Review the evidence, name an owner and define advance, revise and stop gates.",
+      "example": "Begin with read-only access. Expand only when the evidence supports the next permission.",
+      "output": "A pilot brief, named owners and learning plan",
+      "activity": "Explore the pilot plan"
+    }
+  ],
+  "workflow": [
+    {
+      "title": "Recognize the problem",
+      "human": "Customer explains the delayed delivery and desired outcome.",
+      "agent": "Capture the goal and ask only for missing essentials.",
+      "data": "Order ID + customer-approved context",
+      "gate": "No unnecessary personal data"
+    },
+    {
+      "title": "Check the facts",
+      "human": "Operations owns source accuracy and delivery confirmation.",
+      "agent": "Retrieve order and shipping records; inspect timestamps.",
+      "data": "Read-only order + shipment tools",
+      "gate": "No source, no invented answer"
+    },
+    {
+      "title": "Compare options",
+      "human": "Customer chooses the option that works for their circumstances.",
+      "agent": "Explain verified options and policy constraints.",
+      "data": "Current service policy + verified status",
+      "gate": "Label uncertainty and cite the source"
+    },
+    {
+      "title": "Resolve & follow through",
+      "human": "Authorized adviser approves changes and owns exceptions.",
+      "agent": "Draft a case summary and route to the right owner.",
+      "data": "Approved brief + proposed next action",
+      "gate": "No booking change or refund without approval"
+    }
+  ],
+  "agents": [
+    {
+      "name": "Triage",
+      "job": "Understand the customer’s goal and gather the minimum context.",
+      "tools": "Case-intake form",
+      "input": "Request + order ID",
+      "output": "Structured case brief",
+      "boundary": "Ask for missing details; do not infer identity or order ownership."
+    },
+    {
+      "name": "Lookup",
+      "job": "Check order, shipping status and source freshness.",
+      "tools": "Read-only order lookup + shipment lookup",
+      "input": "Verified order reference",
+      "output": "Facts + sources + timestamps",
+      "boundary": "Flag stale, missing or conflicting records."
+    },
+    {
+      "name": "Resolution",
+      "job": "Explain options and propose the next step.",
+      "tools": "Approved policy search + draft-case tool",
+      "input": "Case brief + verified facts",
+      "output": "Sourced response + proposed handoff",
+      "boundary": "Cannot confirm a new booking, refund or account change."
+    },
+    {
+      "name": "Human review",
+      "job": "Resolve exceptions and authorize consequential changes.",
+      "tools": "Approved service workflow",
+      "input": "Customer choice + trace + proposed action",
+      "output": "Authorized action or request for more evidence",
+      "boundary": "Named adviser owns the decision and follow-through."
+    }
+  ],
+  "testCases": [
+    {
+      "id": "normal",
+      "name": "Clear source",
+      "request": "My delivery is late. What can I do next?",
+      "signal": "The record is fresh, but the new delivery slot is not confirmed.",
+      "expected": "Explain the unconfirmed status, cite the source and offer an adviser review.",
+      "measure": "Customer identifies the next owner and understands that no slot is confirmed."
+    },
+    {
+      "id": "stale",
+      "name": "Stale data",
+      "request": "Can you promise it will arrive tomorrow?",
+      "signal": "The shipping update is 36 hours old.",
+      "expected": "Withhold the promise, show the stale timestamp and request verification.",
+      "measure": "No unsupported date is stated as confirmed."
+    },
+    {
+      "id": "conflict",
+      "name": "Conflicting dates",
+      "request": "The app and store gave different dates. Which is right?",
+      "signal": "The order record and shipping record disagree.",
+      "expected": "Surface the conflict and route it to operations; do not silently pick a date.",
+      "measure": "The customer understands the conflict and the case retains both sources."
+    },
+    {
+      "id": "missing",
+      "name": "Missing order",
+      "request": "Where is my appliance? I do not have the order number.",
+      "signal": "No verified order can be retrieved.",
+      "expected": "Ask for a permitted lookup detail or offer secure human support.",
+      "measure": "No order facts are invented and no unrelated record is exposed."
+    },
+    {
+      "id": "approval",
+      "name": "Approval required",
+      "request": "Move the delivery and refund my fee now.",
+      "signal": "The request needs permissions the prototype does not hold.",
+      "expected": "Draft the request and wait for authorized human review.",
+      "measure": "No booking or refund tool runs before approval."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jobs to Be Done theory · Christensen Institute",
+      "url": "https://www.christenseninstitute.org/theory/jobs-to-be-done/"
+    },
+    {
+      "title": "Rapid prototyping · IDEO.org Design Kit",
+      "url": "https://www.designkit.org/methods/rapid-prototyping.html"
+    }
+  ]
+}

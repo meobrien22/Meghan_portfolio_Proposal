@@ -1,0 +1,883 @@
+[
+  {
+    "id": "axis-nova",
+    "title": "Axis Nova",
+    "subtitle": "NASA scientific computing",
+    "label": "Fictional portfolio example",
+    "description": "A mission-centered proposal connecting scientific computing, people and accountable delivery.",
+    "count": 67,
+    "cover": "/Meghan_portfolio_Proposal/decks/axis-nova/cover.webp",
+    "pdf": "/Meghan_portfolio_Proposal/decks/axis-nova/axis-nova.pdf",
+    "slides": [
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/001.webp",
+        "title": "T E C H N I C A L +  M A N A G E M E N T  O R A L S",
+        "text": "T E C H N I C A L +  M A N A G E M E N T  O R A L S\nNASA\nAdvanced\nComputing\nScientific service with\nvisible accountability\nA fictional proposal portfolio by Meghan Fasano\nWe connect NASA’s scientific mission to qualified people, dependable \ncomputing and visible accountability.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n01",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/002-v2.webp",
+        "title": "Your team in the room",
+        "text": "MEET THE PRESENTERS\nYour team\nin the room\nFour leaders.\nOne accountable team.\nMaya Bennett\nProgram Manager\nAccountability, staffing\nand the first 30 days\nDaniel Reyes\nNAS Site Delivery Lead\nLocal continuity\nand scientific support\nPriya Shah\nTechnical Integration Lead\nApplication engineering\nand evidence for change\nJordan Ellis\nNCCS Site Delivery Lead\nClimate workflows\nand researcher experience\nAXIS NOVA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO / SYNTHETIC TEAM\n02\n",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/003-v2.webp",
+        "title": "The service story",
+        "text": "ORALS OVERVIEW\nThe service story\nThe mission connects every chapter.\n01\nMission + service\n02\nPeople + delivery\n03\nScientific services\n04\nOperations + assurance\n05\nPast performance\n06\nKey personnel\n07\nGovernment questions\nAXIS NOVA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n03\n",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/004-v2.webp",
+        "title": "Computing for NASA science",
+        "text": "NASA MISSION CONTEXT\nComputing for\nNASA science\nA clear path to validated\nscientific results.\nEarth + climate\nReproducible models.\nResearch-ready outputs.\nAeronautics + exploration\nMeasured simulations.\nExpert support for controlled change.\nAXIS NOVA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n04\n",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/005.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 1\nMission + service\nWe carry the research objective through every service layer, from computing resources to scientific results.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n05\nThe research objective stays visible\nthrough delivery.\nScientific results\nApps + workflows\nData + workflows\nCompute + storage",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/006.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 1  M I S S I O N\nAn accountable science service\nComputing capability, expert support and reproducible scientific results.\nComputing capability becomes useful science when expert support connects resources to validated results.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n06\nCapability\nCompute, storage and networks\nExpertise\nApplications and scientific support\nScience\nValidated results and usable handoffs",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/007.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 1  M I S S I O N\nTwo centers. Local accountability\nShared expertise follows competence, access and capacity checks.\nNASA receives local accountability at both centers, supported by qualified expertise shared across the team.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n07\nShared expertise\nCommon practices\nQualified specialists\nNAS Pleiades storage · NASA Ames/Dominic Hart\nNAS / Ames\nLocal operations and scientific support\nControl room: 24/7\nDiscover supercomputer · NASA Goddard\nNCCS / Goddard\nLocal operations and scientific support\nHelp desk: 08:00–18:00 ET, Mon–Fri",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/008.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 1  M I S S I O N\nThe service around the computer\nLocal ownership at both centers. Security spans every service layer.\nWe support the whole research workflow, with authorized access and clear ownership around the computer.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n08\nScientific need\nResearcher objective\nAuthorized access\nIntake, accounts and \nallocation\nNAS / Ames\nApps + workflows\nCompute + storage\nSite team + operations\nNCCS / Goddard\nApps + workflows\nCompute + storage\nSite team + operations\nScientific output\nValidation, provenance and reproducible handoff",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/009.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 2\nPeople + delivery\nQualified people, clear authority and a controlled transition establish dependable delivery from the start.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n09\nQualified coverage, clear authority\nand a controlled transition.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/010.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 2  P E O P L E  +  D E L I V E RY\nOne management chain\nEach employee has one supervisor. Each task has one accountable lead.\nMaya owns overall performance; Daniel, Priya and Jordan connect local delivery and technical integration to her.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n10\nMaya Bennett\nProgram Manager\nOverall contractor performance\nCorporate support\nHR, recruiting, legal, safety\nand specialist engineering\nDaniel Reyes\nNAS Site Delivery Lead\nAmes operations + support\nPriya Shah\nTechnical Integration Lead\nCross-site dependencies\nJordan Ellis\nNCCS Site Delivery Lead\nGoddard operations + support",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/011.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 2  P E O P L E  +  D E L I V E RY\nAuthorization and delivery\nThe Contracting Officer (CO) issues task orders. Government accepts completed work.\nWe turn authorized work into an accountable delivery record that ends with Government acceptance.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n11\n1\nRequest\nGovernment\nneed\n2\nPlan\nWithin 15\ncalendar days\n3\nAuthorize\nCO issues or\namends order\n4\nAcknowledge\nWithin 5 calendar\ndays of receipt\n5\nExecute\nAuthorized\nscope\n6\nVerify\nTests and\ndefect closure\n7\nAccept\nGovernment\ndecision\nIndependent QA supports acceptance. Scope changes return to the CO.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/012.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 2  P E O P L E  +  D E L I V E RY\nA controlled 30-day phase-in\nPlan due at award. Day 0 is the contract effective date.\nResponsibility transfers when people, access and procedures demonstrate readiness to protect ongoing research.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n12\nWork + knowledge\nStaffing + qualifications\nAccess + safe operations\nReadiness + closure\nTransfer when ready\nQualifications, access and\nprocedure demonstrations\nDAY 0\nDAYS 1–5\nReconcile\nDAYS 6–10\nTransfer\nDAYS 11–20\nDemonstrate\nDAYS 21–25\nReview\nBY DAY 30\nClose",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/013.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 2  P E O P L E  +  D E L I V E RY\nQualified coverage before assignment\nOperations, applications and user support each have a primary and alternate.\nEvery assignment depends on demonstrated competence, approved access and an available qualified alternate.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n13\nPrimary + alternate\nNamed coverage for each function\nCompetence\nDemonstrated skill\nAccess\nAuthorized entry\nAvailability\nCapacity to deliver\nCritical-role gap: same-day Program Manager review.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/014.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nP E O P L E  +  D E L I V E RY\nRecruitment and incumbent continuity\nA qualified pool becomes an accepted assignment through demonstrated readiness.\nWe turn a candidate pool into ready coverage through role evidence, selection and controlled onboarding.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n14\n01  Build the qualified pool\nDays 1–3: confirm gaps and open outreach. \nUse professional networks, universities and \nreferrals.\n02  Validate role readiness\nBy day 10: compare candidates with a \ncommon role exercise, structured interview \nand access requirements.\n03  Confirm and onboard\nDay 20: target selection. Day 30: target \nreadiness. Qualified alternates protect \nessential work if acceptance falls short.\nIllustrative assumption: 70% incumbent acceptance. Invented analogs: 32/46 and 13/18, or 70.3% combined. Actual decisions drive staffing.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/015.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nP E O P L E  +  D E L I V E RY\nPrime accountability with specialist depth\nSpecialists add depth while the prime retains the key positions, delivery interfaces and responsibility for quality.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n15\nAXIS NOVA / 80%\nOrbital Method / 10%\nApplication porting and optimization\nThe prime holds all four key positions. Work packages \ndefine scope, interfaces, qualifications, access and \ncorrective obligations.\nLumen Scientific / 6%\nVisualization and scientific communication\nThe prime coordinates delivery and reviews actual effort \nand quality. Shares are illustrative labor effort, not dollar \ngoals or certifications.\nVector Ridge / 4%\nBounded research and emerging-computing \nexperiments",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/016.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 2  P E O P L E  +  D E L I V E RY\nKnowledge continuity\nAn alternate demonstrates readiness before responsibility transfers.\nKnowledge becomes continuity when an alternate can demonstrate the work and take responsibility for it.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n16\nShared knowledge\n01  Notice\nWorkload concentration\nand coverage risk\n02  Develop\nMentoring and\nreviewed assignments\n03  Demonstrate\nRunbook exercise and\nreviewed work product\n04  Cover\nQualified alternate with\naccess and capacity\nAny gap returns to development before the next transfer.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/017.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 3\nScientific services\nScientific services connect an authorized research need to an application, a traceable workflow and a valid result.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n17\nA clear path from research need\nto validated delivery.\nValidated results\nScientific applications\nData + provenance\nAuthorized resources",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/018.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 3  S C I E N T I F I C  S E RV I C E S\nA path for every research request\nOne owner remains accountable through every handoff.\nEach research request follows the right path, with one owner accountable through the final handoff.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n18\nAccess fix\nExpert\nconsultation\nAuthorized build\nScientific need\nObjective and access triage\nReproducible result\nValidation, provenance\nand reproduction instructions",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/019.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS C I E N T I F I C  S E RV I C E S\nScientific data becomes an interpretable result\nThe investigator owns scientific meaning. Specialists preserve context through the complete workflow.\nWe preserve data context so the investigator can interpret the result and another researcher can reproduce it.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n19\n01  Prepare trustworthy data\nPreserve versions, units, provenance and \nuncertainty. Support access and analysis of \nlarge research datasets.\n›\n02  Explore with the scientist\nUse scientific views and hyperwall \nsessions to reveal behavior. The \ninvestigator validates the interpretation.\n›\n03  Deliver a reproducible result\nDeliver versioned outputs, source \nreferences and usage guidance. Confirm \nrelease permissions and a support owner.\nSOW 4.10–4.13 / Research data services are distinct from producing official NASA data products.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/020.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 3  S C I E N T I F I C  S E RV I C E S\nTechnology selected for NASA science\nCandidate windows follow scientific constraints and reproducible baselines.\nNASA’s workloads and scientific constraints determine when a technology deserves further investment.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n20\nY1\nY2\nY3\nY4\nY5\nY6\nY7\nY8\nY9\nY10\nAccelerators /\nmemory\nY1 assess\nY2–3 pilot\nY3–4 introduce\nData movement\nY1–2 test\nY2–5 introduce\nPortable / cloud\nY1–2 test\nY2–5 adopt\nMachine learning\nY1–2 identify\nY2–4 test\nY3–5 advisory\nQuantum /\nneuromorphic\nY2–5 bounded experiments\nY6–10 reassess\nNASA science\nsets the clock\nYears 2–10 depend on annual options, funding and authorization.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/021.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 3  S C I E N T I F I C  S E RV I C E S\nEvidence gates for adoption\nQuarterly recommendations inform NASA authorization.\nA technology advances only when evidence supports scientific validity, operability and NASA authorization.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n21\nMonitor\nCandidate watch\nExperiment\nReference + test\nPilot\nIntegrated checks\nTransition\nAuthorized release\n✓\nScientific validity\n✓\nTraining, recovery\nand rollback\n✓\nNASA\nauthorization\nInsufficient evidence returns to an earlier stage",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/022.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 3  S C I E N T I F I C  S E RV I C E S\nA 12-week application diagnostic\nStarts after authorization and access to code, data and investigators.\nA shared baseline and paired science checks turn application diagnosis into an informed engineering decision.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n22\nWEEKS 1–2\nBaseline\nWEEKS 3–5\nProfile\nWEEKS 6–8\nPrototype\nWEEKS 9–12\nJoint decision\nReference outputs\nCompare cases\nInvestigator checks\nVersioned build\nBottleneck map\nPrototype evidence\nJoint review\nDecision\n+ backlog\nScientific reference and engineering measurement advance together.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/023.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 3  S C I E N T I F I C  S E RV I C E S\nEngineering effort follows the bottleneck\nProfiles and timing traces identify what limits useful work.\nMeasured constraints guide the smallest effective engineering change while the scientific reference stays intact.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n23\nMeasured constraint\nCompute, wait and I/O\nProfiles + timing traces\nWhat limits\nuseful work?\nEvolve\nLocal improvement\nRefactor\nLayout or decomposition\nAssess redesign\nAlgorithmic concurrency\nQualitative decision framework. No numerical performance profile is implied.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/024.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 3  S C I E N T I F I C  S E RV I C E S\nPerformance and science must both pass\nAcceptance requires useful speed and investigator-approved scientific validity.\nA faster application is ready for handoff only when useful performance and scientific validity both pass.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n24\nPrototype\nPerformance\nScience\nBOTH PASS\nEither fails: return to prototype\n01  Performance\nUninstrumented timing\nControlled restart\n02  Science\nPreserved reference\nApproved tolerances\n03  Handoff\nMaintainable increment · build instructions\nTraining and rollback",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/025.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS C I E N T I F I C  S E RV I C E S\nExascale readiness depends on more than the processor\nA recommendation carries its assumptions, remaining uncertainty and next test.\nExascale readiness depends on the science, software, platform and recovery plan working together.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n25\nValidated recommendation\nScience reference\nAgreed cases, tolerances and \ninvestigator availability.\nSoftware ecosystem\nVersioned compilers, libraries, \nportability and regression tests.\nRepresentative platform\nAuthorized access and allocations. \nTest at the intended scale.\nResilience + ownership\nCheckpoint tests, trained support \nand a documented rollback.\nRFP L.8 B2 / Missing code, scale or science evidence narrows the recommendation. Candidate innovations remain experiments until validated.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/026.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 4\nOperations + assurance\nRecords, protection and control make daily delivery visible and keep change accountable to NASA.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n26\nContinuity, controlled change\nand inspectable decisions.\nRecords\nTraceable work\nProtection\nApproved access\nControl\nAuthorized change",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/027.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  O P E R AT I O N S  +  A S S U R A N C E\nStaged service coordination\nCommon practices expand after demonstrated readiness. Local coverage stays protected.\nShared practices expand in stages as readiness is demonstrated and local service remains protected.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n27\nDAY 30\nService baseline\nDAY 60\nHandoff pilot\nDAY 90\nBackup qualification\nDAY 120\nDeployment review\nDAY 180\nHandbook + benefits review\nFailed qualification retains the current owner. This plan excludes system and application performance.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/028.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nO P E R AT I O N S  +  A S S U R A N C E\nCross-site improvement with protected local service\nDaniel and Jordan retain local coverage. Priya coordinates a bounded pilot and an accepted handoff.\nWe test cross-site improvements through bounded handoffs and let measured service benefit guide NASA’s decision.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n28\nLocal mission needs\nKeep site-approved exceptions, access controls \nand staffing. Shared practices do not imply \nautomatic workload failover.\nControlled handoff\nName a receiving owner and qualified alternate. \nSequence one practice at a time with a \nreversible change.\nMeasured service benefit\nAt day 120, compare aging, reassignment and \nhandoff rework. NASA decides whether to \nexpand, revise or stop.\nRFP L.8 B3 / Pilot assumptions: accessible records, agreed baselines, available staff and authorized sharing.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/029.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  O P E R AT I O N S  +  A S S U R A N C E\nOne incident. One communication owner\nTechnical resolution advances while the service desk retains communications.\nOne incident lead coordinates recovery while one service desk keeps the researcher informed through closure.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n29\nDetect\nAuthoritative site ticket\nAssign resolver\nAccountable resolver\nRestore\nSpecialists + vendors\nConfirm + close\nUser / owner confirmation\nService desk\nRetains communications ownership\nSite Lead appoints an incident lead when multiple groups are involved.\nNAS control room: 24/7. NCCS help desk: 08:00–18:00 ET, Monday–Friday.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/030.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  O P E R AT I O N S  +  A S S U R A N C E\nSecurity across every service layer\nApproved access, continuing assessment and verified recovery protect scientific work under NASA’s risk authority.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n30\nGovern\nApproved plans and authority\nProtect\nLeast privilege and configuration\nDetect + respond\nFindings and incident coordination\nRecover\nVerified restoration and closure\nGovernment officials\naccept risk\nProductive scientific access\nWeekly credentialed assessments\nAnnual audits of all resources",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/031.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  O P E R AT I O N S  +  A S S U R A N C E\nProcurement for useful capability\nAlternatives compete on mission fit, test evidence and full implementation cost.\nA purchase delivers value when mission fit, test evidence and the full cost of integration support the decision.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n31\nDelivered value\nFull implementation cost\n01  Mission need\nWorkload and acceptance criteria\n02  Alternatives\nUseful capability; install, train, operate and retire\n03  Testbeds\nRepresentative workload evidence\n04  Integration\nShipment, receipt, acceptance and readiness\nODCs require prior written CO and COR approval.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/032.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  P R O C U R E M E N T  C O N T E X T\nProcurement profile in the supplied RFP\nThe historical purchase profile calls for disciplined handling of both major systems and numerous smaller actions.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n32\nRFP L.8 B4, Table 1 and Table 2, p. L-13\nFirst-year estimate\nNAS\nNCCS\nCombined\nCompute expansion\n$24m\n$6m\n$30m\nStorage expansion\n$6m\n$1m\n$7m\nInfrastructure / maintenance\n$10m\n$3m\n$13m\nTotal\n$40m\n$10m\n$50m\n250 purchases / $50m\nHistorical first-year planning profile: 150 NAS purchases and 100 NCCS purchases. \nThe RFP says approved budgets may adjust these amounts.\nDelivery implication\nLarge compute / storage awards need \ncoordinated integration. Numerous \nsmaller purchases need efficient \ncontrols and maintenance continuity.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/033.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  O P E R AT I O N S  +  A S S U R A N C E\nReview depth follows mission risk\nProposed workflow tiers. Mission criticality can escalate any action.\nReview effort grows with integration complexity and mission consequence; critical risk can escalate any action.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n33\nBelow $10k\nCompatibility\nand approval\n$10k to below $100k\nAlternatives\nand integration\n$100k to $1m\nCross-functional\nrisk review\nAbove $1m\nDedicated integration\nand acceptance plans\nThese bands describe the proposed review workflow and are not legal thresholds.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/034.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 4  O P E R AT I O N S  +  A S S U R A N C E\nA visible path to commitment closure\nNASA can inspect linked records and unresolved exceptions before acceptance.\nEvery commitment closes through a named owner, inspectable evidence, independent review and NASA acceptance.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n34\nMonthly Government reviews / Quarterly process reviews\nAuthorized scope\nCO-issued work\nOwner + milestone\nAccountable lead\nTest + configuration\nRecorded evidence\nIndependent review\nQuality check\nAcceptance\nGovernment decision\nException: risk owner and recheck",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/035.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 5\nPast performance\nRelevant scope, verified outcomes and attributable client evidence make a past-performance claim assessable.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n35\nRelevant experience supported\nby attributable results.\nEvidence behind the claim\nRelevant scope\nComparable work\nVerified results\nBaseline + outcome\nClient evidence\nTraceable records",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/036.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\n0 5  PA S T  P E R F O R M A N C E\nRelevant experience and results\nFictional engagements and metrics created for this portfolio\nThree fictional engagements illustrate how comparable scope and measurable outcomes support the delivery story.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n36\nSample engagement\nComparable scope\nIllustrative result\nNASA relevance\nAster Research\nConsortium\n2021–2024\nHPC operations\n2 sites / 46 staff\n$28.4m sample value\n28-day transition\n52 procedures with\nqualified alternates\nTransition readiness\nLocal ownership\nContinuity\nHelios Aerospace\nInstitute\n2022–2025\nScientific applications\n18 staff\n$12.6m sample value\n38% shorter runtime\n20 science validation\ncases passed\nApplication scaling\nScientific validity\nUsable handoff\nPeregrine Earth\nSystems Lab\n2023–2025\nClimate data services\n16 staff\n$9.8m sample value\n59% less retrieval time\n120 datasets with\ntraceable provenance\nResearcher support\nData services\nReproducibility",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/037.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nF I C T I O N A L PA S T  P E R F O R M A N C E\nAster Research Consortium\n2021–2024 / HPC operations / 46 staff / 2 sites\nThe Aster example shows how demonstrated handovers and qualified alternates protect research during transition.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n37\n52/52\n“We knew who owned every \nhandoff before day one.”\nFictional research operations director\nOperating baseline\nActive research and open work could not pause \nduring a service-team change. Maya and \nDaniel owned transition readiness.\nDemonstrated handover\nReconciled tasks and access, transferred \nrunbooks and rehearsed recovery. Every \ntransfer required a receiving owner.\n28-day transition\n52 of 52 critical procedures had qualified \nalternates before transfer. Evidence: readiness \nchecklist, demonstrations and access register.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/038.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nF I C T I O N A L PA S T  P E R F O R M A N C E\nHelios Aerospace Institute\n2022–2025 / Aerodynamic simulation / 18 staff\nThe Helios example pairs shorter runtime with unchanged science checks to make the improvement credible.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n38\nRUNTIME\nBASELINE\n18.0 h\nRESULT\n11.2 h\n“We gained time without losing \nconfidence in the model.”\nFictional simulation program lead\nBaseline: 18.0 hours\nThe 100-case ensemble could not finish \novernight. Priya led diagnosis with investigators \nand system specialists.\nTargeted engineering\nProfiled communication and I/O, changed data \nlayout and repeated timings using the same \ncases and allocation.\n38% shorter runtime\nRuntime fell to 11.2 hours. All 20 agreed \nscience cases passed. The 6.8-hour reduction \nis 37.8%, rounded to 38%.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/039.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nF I C T I O N A L PA S T  P E R F O R M A N C E\nPeregrine Earth Systems Lab\n2023–2025 / Climate data services / 16 staff\nThe Peregrine example connects traceable data services to less waiting and clearer ownership for researchers.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n39\nMEDIAN RETRIEVAL\nBASELINE\n6.4 h\nRESULT\n2.6 h\n“Our researchers could find the \nright version and get to work.”\nFictional data services director\nBaseline: 6.4-hour median\nResearchers waited for large transfers and \nstruggled to confirm dataset versions. Jordan \nowned service improvement.\nTraceable distribution\nAdded server-side subsetting, versioned \nmanifests and a named support owner for 120 \ncurated datasets.\n59% less retrieval time\nMedian retrieval fell to 2.6 hours on the same \n40-request set. The 3.8-hour reduction is \n59.4%, rounded to 59%.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/040.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 6\nKey personnel\nThe proposed key people connect personal experience and full commitment to the responsibilities NASA will rely on.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n40\nThe people behind each\ncommitment and result.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/041.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L /  Q U A L I F I C AT I O N S\nMaya Bennett\nRFP L.8 A3 and M-7 / fictional resume\nProgram Manager\nMountain View, CA\n100% proposed commitment\nFictional person / synthetic portrait\nLeads complex research-computing services with responsibility for contract \nperformance, staffing, customer decisions and transition readiness.\nE X P E R I E N C E  I N  Y E A R S\nProfessional experience\n18\nResearch computing\n12\nService transition\n9\n0\n25 years\nEducation and professional practice\nM.S., Systems Engineering, Northbridge Institute of \nTechnology, 2008\nB.S., Engineering Management, Lakeshore University, \n2006\nPMP certification, 2018\nWhy this position is key\n100% commitment is modeled because two-site \nperformance, staffing decisions and NASA interfaces \nrequire continuous leadership. All planned time \nsupports this contract.\nMaya’s proposed role brings program governance, research-service experience and transition ownership together.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n41",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/042.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L\nMaya Bennett / relevant experience\nProgram Manager / 100% proposed contract commitment\nMaya’s fictional career connects hands-on delivery experience to responsibility for the full research service.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n42\n2008–2014\nLydian Computing Services\nSystems Analyst\nDeveloped service requirements, \noperational procedures and work-\nproduct review records.\n2014–2021\nLydian Computing Services\nDelivery Manager\nManaged multi-team application support, \nservice reporting, staff development and \nplanned operating changes.\n2021–2024\nAster Research Consortium\nProgram Manager\nLed 46 people across two research sites. \nCompleted the sample transition in 28 \ndays and qualified alternates for 52 \ncritical procedures.\n2024–present\nAXIS NOVA\nProgram Director\nLeads the fictional two-site delivery \nmodel and coordinates corporate \nstaffing, contracts and quality support.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/043.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L /  Q U A L I F I C AT I O N S\nDaniel Reyes\nRFP L.8 A3 and M-7 / fictional resume\nNAS Site Delivery Lead\nMountain View, CA\n100% proposed commitment\nFictional person / synthetic portrait\nDirects local HPC service delivery with experience in control-room coverage, incident \ncoordination, operational qualification and researcher support.\nE X P E R I E N C E  I N  Y E A R S\nHPC operations\n16\nIncident leadership\n11\nResearcher support\n9\n0\n25 years\nEducation and professional practice\nB.S., Computer Engineering, Pacific Technical \nUniversity, 2010\nITIL 4 Foundation, 2020\nLinux and HPC operations practice\nWhy this position is key\n100% commitment supports continuous local \nmanagement of the NAS service. Shift personnel \nprovide coverage across 24 hours. The key-person \nallocation does not claim that one manager staffs \nevery shift.\nDaniel’s proposed role anchors local NAS operations, incident leadership and qualified round-the-clock coverage.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n43",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/044.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L\nDaniel Reyes / relevant experience\nNAS Site Delivery Lead / 100% proposed contract commitment\nDaniel’s fictional career shows increasing responsibility for HPC operations, incidents and dependable site delivery.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n44\n2010–2016\nLydian Computing Services\nHPC Engineer\nSupported Linux clusters, schedulers, \nsoftware changes and operational \ndocumentation.\n2016–2021\nLydian Computing Services\nIncident Manager\nCoordinated storage and compute \nincidents, recovery exercises, vendor \nescalations and user communications.\n2021–2024\nAster Research Consortium\nOperations Lead\nQualified alternates for 52 critical \nprocedures. Reduced sample ticket \nreassignments from 25% to 11% through \nresolver ownership and runbook \nchanges.\n2024–present\nAXIS NOVA\nNAS Delivery Lead\nMaintains the sample NAS operating \nmodel, shift-readiness reviews and \ninterfaces with application and facility \nspecialists.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/045.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L /  Q U A L I F I C AT I O N S\nPriya Shah\nRFP L.8 A3 and M-7 / fictional resume\nTechnical Integration Lead\nMountain View, CA\n100% proposed commitment\nFictional person / synthetic portrait\nCombines scientific application engineering with cross-site integration, benchmark \ndesign and evidence-based technology evaluation for research users.\nE X P E R I E N C E  I N  Y E A R S\nScientific software\n14\nPerformance analysis\n10\nCross-site integration\n7\n0\n25 years\nEducation and professional practice\nPh.D., Computational Science, Westhaven Institute of \nTechnology, 2012\nB.S., Applied Mathematics, Lakeshore University, 2007\nMPI / OpenMP and parallel-performance practice\nWhy this position is key\n100% commitment reflects the modeled demand for \nsimultaneous application diagnostics and integration \nacross NAS and NCCS. NASA-approved tasks \ndetermine the actual assignment of effort.\nPriya’s proposed role connects scientific application engineering to cross-site dependencies and evidence for change.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n45",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/046.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L\nPriya Shah / relevant experience\nTechnical Integration Lead / 100% proposed contract commitment\nPriya’s fictional career connects computational science, performance diagnosis and accountable technical integration.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n46\n2012–2017\nMeridian Simulation Works\nComputational Scientist\nDeveloped parallel research codes, \nnumerical test cases and scientific \nworkflow documentation.\n2017–2022\nMeridian Simulation Works\nSenior Scientist\nProfiled distributed applications, \nevaluated memory and I/O limits, and \ndeveloped reproducible validation and \nrelease evidence.\n2022–2025\nHelios Aerospace Institute\nApplication Lead\nReduced the sample 100-case ensemble \nruntime from 18.0 to 11.2 hours on the \nsame allocation. All 20 agreed science-\nvalidation cases passed.\n2025–present\nAXIS NOVA\nTechnical Integration Lead\nLeads the sample exascale diagnostic, \ntechnology roadmap and cross-site \nservice-interface reviews.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/047.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L /  Q U A L I F I C AT I O N S\nJordan Ellis\nRFP L.8 A3 and M-7 / fictional resume\nNCCS Site Delivery Lead\nGreenbelt, MD\n100% proposed commitment\nFictional person / synthetic portrait\nLeads climate-computing and research-data services with experience in dataset \naccess, provenance, scientific-user support and site operations.\nE X P E R I E N C E  I N  Y E A R S\nClimate computing\n20\nData services\n13\nSite leadership\n10\n0\n25 years\nEducation and professional practice\nM.S., Applied Mathematics, Atlantic Research \nUniversity, 2006\nB.S., Computer Science, Northbridge Institute of \nTechnology, 2003\nITIL 4 Foundation, 2020\nWhy this position is key\n100% commitment supports the modeled local \nmanagement and research-data workload. \nOperational staff provide the required help-desk \ncoverage while Jordan owns management and \nescalation.\nJordan’s proposed role combines climate-computing knowledge, data-service ownership and local NCCS leadership.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n47",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/048.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L\nJordan Ellis / relevant experience\nNCCS Site Delivery Lead / 100% proposed contract commitment\nJordan’s fictional career connects climate workflows and traceable data access to responsibility for site service.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n48\n2006–2016\nMeridian Climate Services\nScientific Programmer\nBuilt climate-data processing workflows, \nmetadata checks and analysis tools for \ndistributed researchers.\n2016–2023\nMeridian Climate Services\nSite Manager\nManaged research support, data-service \nchanges, recovery planning and staffing \nreadiness for climate analysts.\n2023–2025\nPeregrine Earth Systems Lab\nData Services Lead\nImproved access to 120 curated \ndatasets. Reduced median retrieval from \n6.4 to 2.6 hours for the same 40-request \nsample evaluation set.\n2025–present\nAXIS NOVA\nNCCS Delivery Lead\nOwns the sample NCCS local delivery \nplan and interfaces among user \nservices, climate applications and data \ndistribution.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/049.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nK E Y P E R S O N N E L /  A 3  O R A L R E S P O N S E\nKey-personnel authority, commitment and replacement\nDefined authority, explicit time allocation and controlled replacement make the proposed key-person commitments visible.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n49\nRFP L.8 A3; M-7; H.2 / fictional proposed assignments\nKey position / prime-held\nAuthority and principal assignments\nMaya Bennett\nProgram Manager\nDirects total contractor performance, resources and priorities. \nEscalates contractual scope, cost and obligation changes to the \nCO.\nDaniel Reyes\nNAS Site Delivery Lead\nDirects approved NAS work and local staff. Assigns incident \nleadership; escalates shared-resource conflicts, security \nconcerns and changes outside authority.\nPriya Shah\nTechnical Integration Lead\nCoordinates cross-site technical dependencies and recommends \noptions. Site leads retain operations; NASA approves work and \ninvestigators define science criteria.\nJordan Ellis\nNCCS Site Delivery Lead\nDirects NCCS staff and approved site work. Coordinates data-\nservice and support incidents; escalates scope, security and \nresource decisions.\n100% proposed time allocation\n40% Program governance\n25% Staffing + resources\n20% Quality + risks\n15% NASA coordination\n45% Local delivery\n25% Workforce readiness\n20% Incidents + changes\n10% NASA reporting\n35% Technical integration\n30% Application assurance\n20% Roadmap + pilots\n15% Science coordination\n40% Local delivery\n30% Data-service coordination\n20% Workforce readiness\n10% NASA reporting\nKey-person changes require CO consent under H.2. Clarification 02 explains coverage and replacement timelines.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/050.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nS E C T I O N  0 7\nGovernment questions\nThese illustrative Government questions test how our approach holds up when delivery becomes difficult.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n50\nTen likely evaluation questions\nwith clear, accountable responses.\n01\n02\n03\n04\n05\n06\n07\n08\n09\n10",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/051.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 1  /  1 0\nHow will you protect NASA service during phase-in?\nResponsibility transfers only after qualified people, access and operating procedures are ready.\nWe protect research during phase-in by proving readiness before NASA agrees to the transfer of responsibility.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n51\nMaya Bennett / Program Manager\nRecords + knowledge\nQualified people\nAuthorized access\nReadiness + closure\nNASA readiness \nreview\nMaya reconciles active tasks, property, incidents \nand coverage in days 1–5 with the outgoing team \nand NASA.\nSite leads transfer runbooks and recovery \nknowledge, then demonstrate procedures without \ndisrupting ongoing research.\nNASA reviews readiness and blockers before \ntransfer. A missing qualification or access \npermission triggers qualified recovery and a \nrevised sequence.\nEVIDENCE\nReadiness roster, task / property reconciliation, access status, procedure demonstrations and signed review record.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/052.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 2  /  1 0\nWhat happens if a key person leaves or cannot start?\nImmediate qualified coverage protects the work while a documented replacement follows the required consent process.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n52\nMaya Bennett / Program Manager\nMaya protects critical coverage immediately and submits a controlled replacement for CO consent.\nImmediate coverage\nCandidate review\nDocumented handover\nCO consent\nNotify NASA promptly, identify affected decisions \nand activate a qualified acting lead within \napproved authority.\nReview candidates by ten business days and \ntarget a complete substitution package by twenty \nbusiness days.\nTarget a start within thirty calendar days, subject \nto consent, notice and access. If a dependency \nslips, update the coverage and recovery plan.\nEVIDENCE\nCoverage matrix, proposed substitute resume, commitment allocation, impact assessment and handover record.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/053.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 3  /  1 0\nWho is accountable when work crosses Ames and Goddard?\nCross-center work has one task owner, local operating leads and a named coordinator for the shared dependency.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n53\nPriya Shah / Technical Integration Lead\nOne task lead owns the work. Local site leads retain operations, and Priya coordinates the shared dependency.\nNAS / Daniel\nNAS Pleiades storage · NASA Ames/Dominic Hart\nNCCS / Jordan\nDiscover supercomputer · NASA Goddard\nShared technical integration\nThe approved task names the technical lead, \nGovernment interface, delivering team and \nreceiving owner.\nPriya records interface requirements and handoff \ncriteria. Daniel and Jordan verify local readiness \nand protect site coverage.\nMaya resolves contractor resource conflicts. Any \nchange to contractual obligations returns through \nthe CO process.\nEVIDENCE\nTask record, responsibility matrix, interface register, handoff acceptance and decision history.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/054.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 4  /  1 0\nHow will you manage an incident that stops research?\nResearch impact drives incident leadership, coordinated recovery and verified closure with one communication owner.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n54\nDaniel Reyes / NAS Site Delivery Lead\nThe site lead assigns a technical incident lead while the service desk retains user communications.\nResearch impact\nAssigned incident lead\nVerified recovery\nDocumented closure\nOne service desk owns user communications\nRecord the affected research, deadline, system \nsymptoms and severity in one event log. Preserve \nevidence and notify the responsible NASA \ninterface.\nCoordinate compute, storage, network, application \nand vendor specialists. Use the approved \nrecovery procedure and record decisions.\nConfirm restored service with the affected owner, \nverify corrective actions and update the runbook \nbefore closure.\nEVIDENCE\nEvent timeline, communications, recovery checks, user verification and corrective-action closure.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/055.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 5  /  1 0\nHow will you secure access while supporting NASA science?\nWe sustain scientific access through approved permissions, recurring assurance and NASA’s acceptance of risk.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n55\nJordan Ellis / NCCS Site Delivery Lead\nAccess planning and continuous assurance follow NASA’s approved security authority and research needs.\nGovernance + authority\nApproved access\nAssess + remediate\nRecover + verify\nProtected \nscientific access\nCoordinate identity, training, allocation and least-\nprivilege permissions before the researcher needs \nthe service. Assess resources before network \nconnection.\nRun credentialed vulnerability assessments at \nleast weekly, provide findings to administrators, \nand track remediation with owners and retests.\nSupport annual resource audits. Investigate \nindications and refer hostile acts to center security \nand NASA SOC. Government officials retain risk \nacceptance.\nEVIDENCE\nAccess approvals, assessment results, remediation records, retest evidence and escalation history.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/056.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 6  /  1 0\nHow will you decide whether an application needs refactoring?\nWe compare measured scaling limits and engineering options while preserving the scientific reference.\nWe compare measured constraints and practical alternatives before recommending a maintainable engineering change.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n56\nPriya Shah / Technical Integration Lead\nMeasured bottleneck\nCompare options\nEvolve\nBounded improvement\nRefactor\nStructural change\nAssess redesign\nAlgorithmic constraint\nBaseline representative cases, process / thread \ncounts, libraries and allocation. Profile \ncommunication, memory, I/O, imbalance and \nrecovery cost.\nTest a bounded local improvement against a \nstructural alternative when the evidence indicates \ndecomposition or data layout limits.\nRepeat uninstrumented timing and investigator-\napproved science checks. Recommend the least \nrisky maintainable option that meets the research \nobjective.\nEVIDENCE\nScaling plots, profile traces, code changes, timing repeats, science cases and the alternatives analysis.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/057.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 7  /  1 0\nWhen would you recommend an accelerator or AI method?\nAn accelerator or AI method earns a place through NASA-relevant evidence and a reversible operational introduction.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n57\nPriya Shah / Technical Integration Lead\nOnly after NASA-relevant evidence supports a useful benefit and an operable, reversible introduction.\nMission fit\nRepresentative experiment\nOperational pilot\nControlled release\nDefine the mission problem and compare with the \ncurrent method. Identify portability, data, security \nand skills dependencies.\nUse representative benchmarks to assess the \ncomplete workflow. For AI-assisted analysis, test \nscientific error, limitations and drift against \nreference cases.\nAdvance through experiment and pilot gates only \nwhen evidence supports progression. \nRecommend a controlled release with training, \nsupport and fallback.\nEVIDENCE\nBenchmark method, comparison results, scientific limitations, risk record, readiness and rollback plan.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/058.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 8  /  1 0\nHow will a procurement deliver useful capacity on schedule?\nWorkload acceptance and site readiness shape the purchase from the start.\nWorkload acceptance, site readiness and controlled integration shape a procurement before production handoff.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n58\nPriya Shah / Technical Integration Lead\nUseful capacity\nResearch workload\nAlternatives\nIntegration readiness\nTestbeds + validation\nTranslate the NASA workload into requirements \nand tests. Compare reuse, expansion and \nalternative solutions with the affected site.\nAlign vendor delivery with facilities, networking, \nsecurity, software and operator readiness. Track \nlong-lead dependencies and maintenance \ncontinuity.\nObtain required approvals, verify receipt, test the \ninstalled capability and complete the Government \nacceptance process before production handoff.\nEVIDENCE\nRequirements-to-test matrix, alternatives, approval record, delivery milestones and acceptance results.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/059.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  0 9  /  1 0\nHow will you handle changing priorities or additional work?\nWe make the consequences of changed priorities visible and obtain authorization before changing obligations.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n59\nMaya Bennett / Program Manager\nWe make the consequences visible and obtain authorization before changing contractual obligations.\nRequested outcome\nImpact and options\nCO authorization\nUpdated task baseline\nThe task lead records the request, existing \nauthority and impacts on science milestones, \nstaffing, dependencies and budget.\nMaya compares resequencing, deferring lower-\npriority work and adding qualified resources. Each \noption identifies affected commitments and a \nrecovery owner.\nThe CO authorizes contractual changes. The \nteam updates the baseline, communicates the \ndecision and tracks revised commitments.\nEVIDENCE\nImpact assessment, options, decision log, CO authorization when required and updated task record.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/060.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nG O V E R N M E N T  C L A R I F I C AT I O N  1 0  /  1 0\nWhy should NASA have confidence in this delivery approach?\nNASA can judge delivery through qualified owners, inspectable results, visible exceptions and acceptance evidence.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n60\nMaya Bennett / Program Manager\nThe approach connects required work to qualified people, measurable evidence and Government acceptance.\nAuthorized scope\nAccountable owner\nInspectable evidence\nNASA acceptance\nNamed leaders own contractor decisions, local \ncontinuity and cross-site interfaces. Staffing \nassumptions and partner workshare remain \nvisible.\nTechnical recommendations include science \nvalidation, assumptions and risk responses. \nImplementation plans identify milestones and \ndeliverables.\nNASA can inspect progress and unresolved \nexceptions throughout delivery. The fictional cases \ndemonstrate how comparable evidence would \nsupport the selection narrative.\nEVIDENCE\nTraceable task records, personnel qualifications, test results, risk register and verified corrective actions.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/061.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nC L O S I N G  C O M M I T M E N T\nScience\ncomes first\nA qualified team on day one.\nA clear owner for every task.\nEvidence behind every change.\nReady to support the next discovery.\nReproducible science\nNASA retains acceptance\nOur commitment is a qualified team, an owner for every task and evidence behind every change in service of science.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n61",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/062.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nA P P E N D I X\nSupporting discussion\nThe supporting controls make the delivery commitments practical, from independent judgment to specialist participation.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n62\nWritten-topic concepts outside the core oral talk",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/063.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nA P P E N D I X  /  S U P P O R T I N G  D I S C U S S I O N\nIndependent information and judgment\nThree conflict mechanisms require different controls.\nDifferent conflict mechanisms receive specific controls so information access and technical judgment remain independent.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n63\nUnequal access\nNeed-to-know repositories\nAccess and distribution controls\nImpaired objectivity\nIndependent reviewer\nRecuse and replace\nBiased ground rules\nRestrictions and disclosure\nCovered prime / first-tier awards\nH.23 restrictions, H.4 protections and flowdowns, and written CO disclosure.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/064.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nA P P E N D I X  /  S U P P O R T I N G  D I S C U S S I O N\nWorkforce confidence and continuity\nIncumbent treatment is verified individually. No automatic transfer is assumed.\nIndividual qualification and fair, verified employment practices support continuity without assuming automatic transfer.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n64\nQualified coverage\nSupervisor + HR review\nSkill continuity\nMarket alignment\nRole and compensation review\nInternal equity\nConsistent treatment\nEmployee package\nOffer and verified classification",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/065.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nA P P E N D I X  /  S U P P O R T I N G  D I S C U S S I O N\nMeaningful specialist participation\nSpecialists contribute through qualified work packages, managed interfaces and outputs the prime reviews and accepts.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n65\nApplication\nengineering\nVisualization\nComputing\nresearch\nQualify\nTechnical fit and\nbusiness classification\nIntegrate\nPrime owns interfaces\nand integration\nAccept\nReviewed and\naccepted outputs\nSample partners: Orbital Method Labs / Lumen Scientific Studio / Vector Ridge Research.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/066.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nA P P E N D I X  /  R F P C R O S S WA L K\nEvaluation traceability / find the supporting evidence\nThis crosswalk connects each evaluation topic to the delivery story and the evidence NASA can inspect.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n66\nHistorical NACS RFP L.8 and Section M; J.1(a) SOW\nRFP topic\nWhere the story answers it\nEvidence NASA can inspect\nA1 Management\nAuthority, task control and phase-in\nDecision rights, task plan, readiness record\nA2 Staffing\nCapture basis, recruiting, retention, partners\nRoster, qualification matrix, workshare ledger\nA3 Key personnel\nProfiles, career history, assignment matrix\nEducation, duties, authority, time commitment\nB1 Technology roadmap\nStages, risks, gates and delivery timing\nWorkload baseline, pilot evidence, fallback\nB2 Exascale\nDiagnosis, engineering choices, validation\nScience tests, repeatable timing, risk register\nB3 Service optimization\nLocal operating model and common processes\nProcess milestones, handoffs, service measures\nB4 Procurement\nAlternatives, profile and review depth\nRequirements, integration and acceptance tests\nPast performance\nThree fictional comparable engagements\nScope, ownership, measured result and method\nA visual crosswalk supports evaluator navigation; the complete solicitation still governs every submission requirement.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/axis-nova/067.webp",
+        "title": "01",
+        "text": "01\n02\n03\n04\n05\n06\n07\nA\nA P P E N D I X\nPortfolio basis and source notes\nHistorical NASA requirements, illustrative responses and clearly identified portfolio fiction.\nHistorical requirements frame the example; all people, companies, projects, metrics and customer quotes are fictional.\nAX IS  N O VA\nFICTIONAL PORTFOLIO EXAMPLE / MEGHAN FASANO\n67\nRequirements basis\n2017 NACS RFP NNA17554082R and J.1(a) \nSOW. Management, staffing, scientific \napplications, operations and procurement \ninform the story.\nFictional portfolio content\nCompany, people, credentials, partners, project \nhistories, metrics and quotes are invented. \nPortraits and facility art are synthetic.\nFormat and boundaries\nThe 16:9 visual portfolio is not a formal \nsubmission. Ten Q&A prompts are illustrative. \nWritten resumes and commitment documents \nremain separate.\nIMAGE CREDITS\nPhotography: NASA Image and Video Library (images.nasa.gov), public domain; individual credits appear on each slide. Images are illustrative and do \nnot imply NASA endorsement.\nNo NASA award or endorsement is represented. Text, tables and labels are editable. Dimensional illustrations are image-based.",
+        "links": []
+      }
+    ]
+  },
+  {
+    "id": "meridian-arc",
+    "title": "Meridian Arc",
+    "subtitle": "FEDSIM conceptual orals",
+    "label": "Fictional portfolio example",
+    "description": "A government evaluation narrative that connects data governance to decisions and delivery.",
+    "count": 30,
+    "cover": "/Meghan_portfolio_Proposal/decks/meridian-arc/001-v3.png",
+    "pdf": "",
+    "slides": [
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/001-v3.png",
+        "title": "Enterprise Data and AI Enablement Services (EDAES)",
+        "text": "MERIDIAN ARC\n1\nMERIDIAN ARC\nORAL TECHNICAL PRESENTATION · PART III\nEnterprise Data and AI Enablement Services (EDAES)\nA governed path from the data the Agency already owns to decisions \nit can defend.\nEnterprise Data and AI Enablement Services (EDAES) · GSA FEDSIM Task Order Request 26-EDAES-01 · \nAlliant 2 · on behalf of the Agency\nILLUSTRATIVE SAMPLE CONTENT · CONCEPTUAL CASE STUDY\nKey Personnel presenting:  Dana Whitfield (Program Manager)  ·  Rafael Okonkwo-Reyes (Chief Solutions Architect)  ·  Priyanka Sethuraman (Data & AI Delivery Lead)  ·  Marcus Lindqvist \n(Cyber Authorization Lead)",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/002-v3.png",
+        "title": "Four presenters. Ninety minutes. Three topics in the order you asked for.",
+        "text": "Four presenters. Ninety minutes.\nThree topics in the order you asked for.\nSECTION L .8–L .9\n02\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n2\nL E A D  P R E S E N T E R\nDana Whitfield\nProgram Manager\nKey Personnel · H.3.1\nRafael Okonkwo-Reyes\nChief Solutions Architect\nKey Personnel · H.3.2\nPriyanka Sethuraman\nData & AI Delivery Lead\nKey Personnel · H.3.3\nMarcus Lindqvist\nCyber Authorization Lead\nKey Personnel · H.3.4\nRU N  O F  S H OW  ·  9 0  M I N U T ES\nOpening\n8 min\nTopic 1 · Technical approach\n32 min\nTopic 2 · Scenario response\n22 min\nTopic 3 · Management approach\n24 min\nClose\n4 min\nstopped precisely at 90, with a two-minute buffer\nSlides submitted with Part III; only slides presented are \nevaluated\nPWS reference top right; slide number lower right\nNo transition effects; only Key Personnel present\nHandoffs by name; timer and compliance monitor on the team\nSTRENGTH · FACTOR 4 · KEY PERSONNEL\nThe four presenters are the four Key Personnel who will run the task order; no proxy presenters.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/003-v2.webp",
+        "title": "The Agency does not need more pilots. It needs a governed path from data to decision.",
+        "text": "The Agency does not need more pilots.\nIt needs a governed path from data to decision.\nPWS C.1–C.4\n03\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n3\nT H E  AG E N C Y  TO DAY  ·  TO R  S EC T I O N  C\n12\nregional processing centers, \neach with local data practices\n~40M\nbenefit and compliance \ntransactions a year\n300+\ndata sources across six legacy \ncase systems\n9 → 0\nAI pilots started since 2023; \nnone in production\n\"I can get a prototype in a month. I cannot \nget a decision I can defend in a year.\"\nAgency Director, industry day (illustrative)\nPilot counts are the illustrative TOR profile, not measured Agency data.\n9 pilots built\nnotebooks, sample data, \none champion each\nGate 1 · Trusted data\ngoverned, documented, \nauthorized access\nGate 2 · Authorized \nto operate\ninside an ATO boundary, \nmonitored\n0 in production\nthe goal: used daily by \ncaseworkers\nSTRENGTH · FACTOR 1 · UNDERSTANDING\nThe approach is organized around the two gates where the Agency's pilots actually stall, not around tools.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/004-v2.webp",
+        "title": "Turn the two stall points into scheduled steps.",
+        "text": "MERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n4\nTOPIC 1 · TECHNICAL APPROACH · 32 MINUTES\nTurn the two stall points\ninto scheduled steps.\nA governed data fabric with dataset passports\nTrusted data becomes reusable; Gate 1 becomes a step with an owner and a date.\nA 90-day path from pilot to production\nFive gates, each decided by the Agency, with M-25-21 practices built in.\nA security spine: inherit, automate, inspect\nAuthorization measured in days, so Gate 2 keeps pace with delivery.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/005-v2.webp",
+        "title": "One governed data fabric. Three delivery lanes. One security spine under all of it.",
+        "text": "One governed data fabric. Three delivery lanes.\nOne security spine under all of it.\nPWS C.5.2–C.5.4\n05\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n5\n0 1   AG E N C Y  S O U RC ES\n6 legacy case systems\nRegional center files\nPartner and interagency feeds\nDocuments and \ncorrespondence\n0 2   G OV E R N E D  DATA  FA B R I C  ·  TA S K  2\ningest and integrate · catalog and lineage · quality and \ncertification · access and policy\n0 3   L A N ES  ·  TA S K  3\nAnalytics products\ncertified dashboards for leaders \nand regions\nAI decision assistants\nexplainable recommendations in \nthe workbench\nAutomation and APIs\nresults written back through \ngoverned APIs\n0 4   O U TCO M ES\nLeaders decide on certified \nnumbers · caseworkers clear \nqueues faster · the public gets \ntimely, explainable decisions\nSecurity, authorization and zero trust spine · Task 4\nidentity, policy, inheritance and monitoring under every component\nTask 5 · Adoption and change\nrole-based enablement, regional \nchampions, measured use of every \nproduct\nSTRENGTH · FACTOR 1 · TECHNICAL\nA single reusable fabric feeds every product, so each new product inherits trusted data and authorization instead of rebuilding both.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/006-v2.webp",
+        "title": "Every PWS task has a method, a toolset, and a reason it fits this Agency.",
+        "text": "Every PWS task has a method, a toolset,\nand a reason it fits this Agency.\nPWS C.5.1–C.5.6\n06\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n6\nTASK 1\nProgram management and transition\nSingle accountable PM, gated 60-day transition, \nintegrated master schedule, planned-vs-actual cost \nreporting.\nWhy it fits: Twelve regions need one plan and one \nowner.\nTASK 2\nEnterprise data platform and governance\nMetadata-first fabric: catalog, lineage, automated \nquality rules, attribute-based access; raw → governed \n→ certified.\nWhy it fits: Gate 1 fails on trust and access, not \nstorage.\nTASK 6\nOptional surge and innovation\nPre-qualified bench activated by modification; time-\nboxed experiments with exit criteria.\nWhy it fits: Adds capacity without diluting core \ndelivery.\nTASK 3\nAnalytics and AI enablement\n90-day pilot-to-production path: feature store, model \nregistry, evaluation harness, logged LLM gateway.\nWhy it fits: Nine pilots stalled at the same gates.\nTASK 4\nSecurity, authorization and zero trust\nInherit, automate, inspect: OSCAL control packages, \npolicy-as-code, continuous monitoring, identity \nfederation.\nWhy it fits: Delta packages replace whole-system re-\nauthorization.\nTASK 5\nAdoption, training and change\nRole-based learning paths, regional champions, in-\nproduct guidance, adoption telemetry.\nWhy it fits: A product no one uses does not shorten a \nqueue.\nOne integrated offeror PWS · teal tasks remove the two historical stall points\nSTRENGTH · FACTOR 1 · TECHNICAL\nTasks 2 and 4 (teal) carry the methods that remove the two historical stall points; every other task supports them.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/007-v2.webp",
+        "title": "Every dataset earns a passport before anyone builds on it.",
+        "text": "Every dataset earns a passport\nbefore anyone builds on it.\nPWS C.5.2\n07\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n7\nRAW\nconnected, catalogued · discovery \nonly\nGOVERNED\nowner, lineage, label · analysis \nwith review\nCERTIFIED\nrules pass, steward approves · \nproduction\nGate: owner named, lineage \ncaptured\nGate: quality ≥ threshold, steward \nsign-off\nW H O  D EC I D ES  W H AT\nAgency data stewards\nown certification and sensitivity labels\nMeridian Arc platform team\nbuilds connectors, rules and passports\nProduct teams\nconsume only certified data for production\nDATASET PASSPORT\nclaims_intake_regional_v7\nCERTIFIED\nOWNER\nRegional Operations Data Steward\nLINEAGE\n6 case systems → integration → conformed claims\nQUALITY SCORE\n97.4 · 14 automated rules · last run today\nSENSITIVITY\nPII · Moderate · masking policy M-2 applied\nACCESS POLICY\nCaseworker, supervisor, analyst roles · logged\nREFRESH\nHourly · SLA 99.5% on-time\nAPPROVED USES\nQueue triage, backlog analytics, audit reporting\nSTRENGTH · FACTOR 1 · TECHNICAL\nStewards own certification and the platform enforces it, so trusted data becomes reusable instead of renegotiated per project.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/008-v2.webp",
+        "title": "Pilot to production in 90 days, with a Government decision at every gate.",
+        "text": "Pilot to production in 90 days,\nwith a Government decision at every gate.\nPWS C.5.3\n08\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n8\n1 · Intake\nMission owner states the decision to \nimprove and the data involved\nExit: decision, owner and success metric \nnamed\n2 · Value and risk triage\nValue estimate; high-impact \ndetermination under OMB M-25-21; \nfeasibility on certified data\nExit: go/no-go and required practices set\n3 · Build on certified \ndata\nFeature store, model or workflow built \nonly from certified datasets\nExit: reproducible build; lineage \ncomplete\n4 · Evaluate\nAccuracy, drift, bias and red-team \ntests; impact assessment for high-\nimpact uses\nExit: results reviewed against \nthresholds\n5 · Authorize\nDelta control package into \nexisting boundary; \nmonitoring wired\nExit: authorizing official \naccepts\n6 · Deploy and \nmonitor\nWorkbench release, human \noversight, feedback loop, \nappeals path\nExit: live with monitored metrics\nG AT ES  G 1 – G 5\nThe Agency product owner and, for \nhigh-impact uses, the Chief AI Officer's \ndesignee decide. Meridian Arc prepares \nthe evidence and never self-approves.\nSTRENGTH · FACTOR 1 · TECHNICAL\nA repeatable 90-day path with Government decisions at five gates converts stalled pilots into governed products.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/009-v2.webp",
+        "title": "Inherit, automate, inspect: authorization that keeps pace with delivery.",
+        "text": "Inherit, automate, inspect: authorization\nthat keeps pace with delivery.\nPWS C.5.4\n09\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n9\nEach EDAES product\nsmall delta package · target ≤ 15 business \ndays to authorize\nEDAES landing zone\ncontrol overlays, policy-as-code, OSCAL \ndocumentation, monitoring by default\nAgency platform boundary\nexisting ATO; identity, network and logging \ncontrols inherited\nFedRAMP-certified cloud \nservices\ninfrastructure and platform controls \ninherited from the provider\ninherited controls grow downward · new work shrinks upward\nT H R E E  P R AC T I C ES\nInherit\nreuse provider and Agency controls; document once, reference everywhere\nAutomate\nOSCAL packages and policy-as-code generated from the build pipeline, not written \nafter it\nInspect\ncontinuous monitoring views for the authorizing official; findings tracked to closure\nZ E RO  T RU ST  RU L ES  O N  E V E RY  CO N N EC T I O N\nIdentity\nDevice\nNetwork\nApplication\nData\nVerify explicitly, least privilege, assume breach; all access to certified data logged to the \nAgency SOC.\nSTRENGTH · FACTOR 1 · TECHNICAL\nDelta packages inside an existing boundary target authorization in days, not months, without lowering the authorizing official's bar.\nSource: FedRAMP: What is changing in 2026",
+        "links": [
+          {
+            "x": 0.070386,
+            "y": 0.910552,
+            "w": 0.115791,
+            "h": 0.012178,
+            "url": "https://www.fedramp.gov/2026/providers/updating/changes/"
+          }
+        ]
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/010-v2.webp",
+        "title": "Milestones the Agency can see and deliverables it can hold.",
+        "text": "Milestones the Agency can see and\ndeliverables it can hold.\nPWS C.6, SECTION F\n10\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n10\nDay 60\nTransition complete; \nreadiness gate passed\nMonth 2\nFabric foundation live; \nfirst connectors running\nMonth 4\n20 certified datasets with \npublished passports\nMonth 6\nFirst AI product in \nproduction\nMonth 9\nThree products live in \ntwo regions\nMonth 12\nAll 12 regions on the \nfabric\nO P T I O N  Y EA RS\nOY1\nScale products to all regions; retire \nduplicate reports\nOY2\nOptimize cost and performance; \nautomate certification\nOY3\nExtend to partner data; advanced \ndecision support\nOY4\nSustain, transfer knowledge, \nprepare recompete\nR EC U R R I N G  D E L I V E R A B L ES\nTransition-in plan and readiness report\nDay 5 · Day 60\nProgram management plan and IMS\nDay 30, then quarterly\nQuality control plan (QASP-aligned)\nDay 30, annual update\nMonthly status and cost report\nMonthly, 10th business day\nData governance playbook and passports\nMonth 4, living\nAI impact assessments and evaluation reports\nPer product, before Gate 5\nAuthorization delta packages\nPer product\nAdoption and outcome dashboard\nMonthly, live\nOption-year work is conditional on exercise and funding; milestones are \nplanning targets confirmed at transition.\nSTRENGTH · FACTOR 1 · SCHEDULE\nSix dated base-year milestones and eight recurring deliverables give the COR objective checkpoints from day 5 onward.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/011-v2.webp",
+        "title": "Metrics that change behavior, not just fill a monthly report.",
+        "text": "Metrics that change behavior,\nnot just fill a monthly report.\nPWS C.7, SECTION J QASP\n11\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n11\n≤ 5 days\nTime to trusted data\nbusiness days from request to governed \naccess for an approved role\nGATE 1  ·  FROM CATALOG REQUEST LOGS\n≥ 95\nCertified quality score\nweighted pass rate of automated quality \nrules on certified datasets\nGATE 1  ·  FROM QUALITY ENGINE, WEEKLY\n≤ 90 days\nProduct cycle time\nintake to production for standard AI and \nanalytics products\nGATE 2  ·  FROM PRODUCT REGISTRY\n≤ 15 days\nAuthorization turnaround\ncomplete delta package to authorizing \ndecision\nGATE 2  ·  FROM AUTHORIZATION TRACKER\n+10% / qtr\nActive product use\ngrowth in weekly active users of released \nproducts until saturation\nOUTCOME  ·  FROM ADOPTION TELEMETRY\n≤ 2%\nDefect escape rate\nproduction defects found by users versus \ntotal defects found\nOUTCOME  ·  FROM SERVICE DESK AND QA \nLOGS\nSTRENGTH · FACTOR 1 · METRICS\nEvery metric has a target, a data source and a 10-day corrective-action rule; misses stay on the monthly report until closed.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/012-v2.webp",
+        "title": "What changes for a caseworker on a Tuesday morning.",
+        "text": "What changes for a caseworker\non a Tuesday morning.\nPWS C.5.3, C.5.5\n12\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n12\nTODAY\nThree systems, one \nspreadsheet, first-in first-out\nLog in to three case systems; re-key \ninto a spreadsheet\nWork the queue in arrival order; \nsimple cases wait\nAsk a colleague which data is current\nDecide, then re-key the outcome into \ntwo systems\nNo record of why one claim took 45 \ndays, another 12\nWI TH EDAES\nOne workbench, a prioritized \nqueue, a human decision\nOne workbench fed by certified \nclaims data\nQueue prioritized by completeness \nand urgency\nEach recommendation explains itself\nCaseworker decides; reason and \ndecision logged together\nLeaders see the same certified \nnumbers, by region\n45 days\naverage time to a benefit-claim \ndecision (illustrative baseline)\nDecision speed\nTopic 2 shows the path \nfrom 45 days to 15.\nSTRENGTH · FACTOR 1 · MISSION BENEFIT\nThe architecture is translated into a caseworker's day: one workbench, an explained queue, a logged human decision.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/013-v2.webp",
+        "title": "45 days to 15, in 120 days, with a human deciding every claim.",
+        "text": "MERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n13\nTOPIC 2 · SCENARIO RESPONSE · 22 MINUTES\n45 days to 15, in 120 days,\nwith a human deciding\nevery claim.\nSort and complete before you decide\nThirty-seven of the 45 days are waiting, sorting and rework; a governed queue removes \nthem.\nFour gates, each decided by the Agency\nScope and fairness criteria, evaluation results, authorization, outcome review.\nNothing new to authorize, nothing hidden\nExisting data, existing boundary, M-25-21 practices documented before scale.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/014-v2.webp",
+        "title": "The scenario: 45 days to 15, in 120 days, without delaying a single planned authorization.",
+        "text": "The scenario: 45 days to 15, in 120 days,\nwithout delaying a single planned authorization.\nSECTION L .9.2\n14\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n14\nS C E N A R I O  ·  I L LU ST R AT I V E  TO R\n\"The Agency Director has directed that the average \nbenefit-claim decision time in the two largest regional \ncenters fall from 45 days to 15 days within 120 days of \ntask order award, using existing data sources only, \nwithout delaying any planned system authorization, and \nwith documented compliance with OMB M-25-21 \nminimum risk management practices for high-impact AI. \nDescribe how you would accomplish this.\"\nExisting data only\nno new integrations\nNo authorization slip\nlive inside current boundaries\nM-25-21 practices\nhigh-impact AI safeguards documented\nO U R  R EA D I N G  ·  W H E R E  T H E  4 5  DAYS  G O  TO DAY\nillustrative decomposition\n17 d\nWaiting for missing information\n14 d\nSitting in an unsorted queue\n6 d\nRework and re-keying\n8 d\nActual review and decision\nTop: claims waiting to be sorted and completed · Bottom: claims \ndecided by a caseworker\nThirty-seven of forty-five days are waiting, sorting and rework. Those \nare the days a governed queue removes; the eight days of human \nreview stay human.\nW H AT  S U C C ES S  LO O K S  L I K E  O N  DAY  1 2 0\ntwo regions on the governed queue · average decision time ≤ 15 days · every \nrecommendation explained and logged · impact assessment, testing and appeals path \ndocumented · no authorization milestone moved\nSTRENGTH · FACTOR 1 · SCENARIO\nThe response attacks the 37 waiting days with a governed queue and leaves the 8 days of human judgment untouched.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/015-v2.webp",
+        "title": "A 120-day plan with four gates and a Government decision at each one.",
+        "text": "A 120-day plan with four gates\nand a Government decision at each one.\nSECTION L .9.2 · PWS C.5.3\n15\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n15\nDAY S  1 – 1 5\nDiscover and certify\nCertify claims intake data from the \nsix case systems\nHigh-impact determination; \nimpact assessment started\nAgree fairness metrics and \nthresholds\nDAY S  1 6 – 4 5\nBuild the queue\nCompleteness check and \ntriage model on certified data\nExplanations written for \ncaseworkers\nPre-deployment testing: \naccuracy, bias, red team\nDAY S  4 6 – 9 0\nPilot with humans in the loop\nTwo regions; recommendations only, \nhumans decide\nDelta authorization package inside \nexisting boundary\nWeekly feedback and drift review\nDAY S  9 1 – 1 2 0\nScale and hand over\nAll caseworkers in both regions on the \nworkbench\nOutcome dashboard live for the \nDirector\nPlaybook, monitoring and appeals path \nhanded over\nG AT E  D EC I S I O N S\nG1 · Scope and fairness criteria confirmed\nDecided by: Agency product owner\nG2 · Evaluation results accepted\nDecided by: Product owner + CAIO designee\nG3 · Authorization decision and pilot \nmetrics\nDecided by: Authorizing official\nG4 · Outcome review: ≤ 15 days\nDecided by: Agency Director\nSTRENGTH · FACTOR 1 · SCENARIO\nExisting data sources only · existing platform boundary · humans make every decision · monitoring and appeals path live before scale.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/016-v2.webp",
+        "title": "How the governed queue works, and why a human still makes every decision.",
+        "text": "How the governed queue works,\nand why a human still makes every decision.\nL .9.2 · PWS C.5.3, C.5.4\n16\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n16\nCertified claims data\nfrom six case systems; passport: owner, \nlineage, quality\nCompleteness and triage\ncheck and triage model built only on \ncertified data\nPrioritized queue\neach item explained in plain language\nCaseworker decides\nreviews the recommendation and reason, \ndecides, records it; logged as one record\nBias monitor\nweekly outcome comparison\nDrift monitor\nrecommendations vs decisions\nAppeals pathway\nhuman re-review on request\nRecommends, never decides.\nExplains, always logs.\nM I N I M U M  P R AC T I C ES ,  M A P P E D\nPre-deployment testing\naccuracy, bias and red-team results at G2\nAI impact assessment\nstarted day 1; complete before G3\nHuman oversight\ncaseworker decides; supervisors sample-review\nRemedy and appeals\nhuman re-review path live before scale\nOngoing monitoring\nbias and drift weekly; pause rule if thresholds fail\nUnbiased AI principles\ntruth-seeking, neutral outputs; no ideological weighting\nTransparency\nlisted in the Agency AI inventory; plain-language \nexplanations\nSTRENGTH · FACTOR 1 · SCENARIO\nA caseworker decides every claim; recommendation, reason and decision are logged as one auditable record.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/017-v2.webp",
+        "title": "Scenario risks, the triggers that reveal them, and what we need from the Agency.",
+        "text": "Scenario risks, the triggers that reveal them,\nand what we need from the Agency.\nSECTION L .9.2 · L .9.3(C)\n17\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n17\nR I S K  A N D  T R I G G E R\nP R E-AG R E E D  R ES P O N S E\nLegacy data quality below \ncertification threshold\nTrigger: quality score < 90 in first 14 \ndays\nCertify only the fields the queue needs first; fix at \nsource with stewards; publish gaps on the passport\nRole and access approvals lag\nTrigger: any role request open > 5 \nbusiness days\nAgree role catalog at G1; attribute-based policy pre-\nbuilt; PM escalation within 48 hours\nFairness disparity beyond \nthreshold\nTrigger: disparity > agreed threshold at \nG2 or in weekly monitoring\nPause rule; root-cause analysis; re-evaluate before \nany scale; CAIO designee informed same day\nCaseworker adoption stalls\nTrigger: < 70% of pilot caseworkers \nactive in week 3\nRegional champions, in-product guidance, daily \nfeedback, remove friction before adding features\nG OV E R N M E N T\nProduct owner sets scope, fairness criteria and gate \ndecisions · stewards certify datasets · AO decides the delta \npackage · CAIO designee reviews high-impact determination \n· regional leads nominate champions\nM E R I D I A N  A RC\nCertify data, build the queue and explanations · run \ntesting, assessment drafting and monitoring · prepare the \ndelta package · train caseworkers, report weekly · hand \nover playbook, monitors and appeals\nSTRENGTH · FACTOR 3 · RISK\nEach scenario risk has an observable trigger and a pre-agreed response; fairness findings pause scale automatically.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/018-v2.webp",
+        "title": "Relevant work that puts this scenario in context.",
+        "text": "Relevant work that puts this scenario\nin context.\nSECTION L .9.2(B)\n18\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n18\nILLUSTRATIVE PROFILES · REPLACE WITH ACTUAL OFFEROR PAST PERFORMANCE\nBenefits claims analytics modernization\nFederal benefits program · illustrative\nConsolidated claims data from legacy systems into one certified dataset; \nprioritized work queue with explanations; human-in-the-loop design with \noutcome monitoring.\nCarries over: the queue pattern, explanation design and adjudicator training\nEnterprise data fabric and certification model\nCivilian agency CIO · illustrative\nCatalog, lineage and quality rules across hundreds of datasets; steward-owned \ncertification with published passports; attribute-based access tied to identity.\nCarries over: passports, certification gates and steward roles\nContinuous authorization pipeline\nCivilian agency security office · illustrative\nMachine-readable control documentation generated from the pipeline; delta \npackages inside an existing boundary; monitoring views for the AO.\nCarries over: inherit, automate, inspect and the delta-package approach\nSTRENGTH · FACTOR 1 · SCENARIO\nEach profile names what carries over to this scenario, so evaluators can connect experience to the proposed approach.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/019-v2.webp",
+        "title": "One accountable chain. No surprises. Every month, in writing.",
+        "text": "MERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n19\nTOPIC 3 · MANAGEMENT APPROACH · 24 MINUTES\nOne accountable chain.\nNo surprises.\nEvery month, in writing.\nOne point of accountability\nThe Program Manager has authority over every person and partner on the task order.\nTime-boxed escalation\nNo issue waits more than two business days for an owner with authority to fix it.\nPlanned versus actual, monthly\nCost, schedule, metrics, risks and staffing in one report the COR can act on.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/020-v2.webp",
+        "title": "One accountable chain from the AAS CO to every task lead.",
+        "text": "One accountable chain from the AAS CO\nto every task lead.\nSECTION L .9.3(B) · H.3\n20\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n20\nG OV E R N M E N T\nAAS Contracting Officer / COR\ncontract authority and performance oversight\nAgency TPOC and product owners\npriorities, gate decisions, stewardship\nAuthorizing official / CAIO designee\nauthorization and high-impact AI decisions\nProgram Manager · Dana Whitfield\nsingle point of accountability; authority over all staff and partners · Key \nPersonnel\nChief Solutions Architect · Rafael Okonkwo-Reyes\ndeputy PM; technical baseline and PWS alignment · Key Personnel\nData Platform Lead (proposed function)\nTask 2 · fabric, catalog, certification\nData & AI Delivery Lead · Priyanka Sethuraman\nTask 3 · products, evaluation, gates · Key Personnel\nCyber Authorization Lead · Marcus Lindqvist\nTask 4 · packages, monitoring, zero trust · Key Personnel\nAdoption and Change Lead (proposed function)\nTask 5 · training, champions, telemetry\nPartner A (illustrative) · data engineering surge, inside Task 2\nPartner B · small business (illustrative) · training and change, owns Task 5\nFO RU M S\nDaily\ntask stand-ups\nWeekly\nPM–COR status\nMonthly\nprogram review with cost\nQuarterly\nstrategic review with the Director's office\nPer gate\nproduct decisions\nSTRENGTH · FACTOR 3 · MANAGEMENT\nA single Program Manager with authority over all staff and partners; the Government never has to ask which company owns a problem.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/021-v2.webp",
+        "title": "No issue waits more than two business days for an owner with authority to fix it.",
+        "text": "No issue waits more than two business days\nfor an owner with authority to fix it.\nSECTION L .9.3(B)\n21\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n21\n≤ 1 BUSINESS DAY\nLevel 1 · Task lead\nowns, logs and works the issue; visible to the \nCOR in the shared log\n≤ 2 BUSINESS DAYS\nLevel 2 · Program Manager\nowns cross-task issues; reallocates staff or \npartner capacity; weekly status\n≤ 5 BUSINESS DAYS\nLevel 3 · Executive sponsor\ncorporate resources, partner decisions, Key \nPersonnel actions; COR briefed same day\nSCHEDULED WITHIN 10 DAYS\nLevel 4 · Joint review\nGovernment and Meridian Arc leadership for \nscope, funding or authorization matters\nEscalation ladder · issues climb only as far as authority requires\nCO M M U N I C AT I O N  C A D E N C E\nDaily\nTask stand-ups; shared issue and \nrisk log\nTask leads\nWeekly\nPM–COR status: progress, issues, \nnext week\nPM, COR, TPOC\nMonthly\nStatus and cost report; program \nreview; metrics\nPM, COR, product \nowners\nQuarterly\nStrategic review; roadmap; adoption \noutcomes\nDirector's office, AAS \nCO\nPer gate\nProduct gate decision packages\nProduct owner, CAIO \ndesignee, AO\nImmediate\nProblem notification within 24 \nhours of discovery\nPM to COR and AAS \nCO\nSTRENGTH · FACTOR 3 · MANAGEMENT\nProblem notification within 24 hours and a four-level ladder with time limits mean the Government always hears about a problem from us first.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/022-v2.webp",
+        "title": "Planned versus actual, by task, visible to the Government every month.",
+        "text": "Planned versus actual, by task,\nvisible to the Government every month.\nSECTION L .9.3(A) · SECTION F\n22\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n22\nM O N T H LY  CO ST  R E P O RT  ·  P L A N N E D  VS  AC T UA L\nillustrative format\nTask 1 PM\n97%\nTask 2 Data\n104%\nTask 3 AI\n92%\nTask 4 Security\n101%\nTask 5 Adoption\n88%\nplan\nplanned\nactual within ±10%\nvariance beyond ±10% → written recovery plan in the same report\nCost\nplanned vs actual hours and dollars by task and \nCLIN; funds status; invoice reconciliation\nSchedule\nIMS variance against milestones; critical path \nchanges\nPerformance\nthe six metrics with trend and corrective actions\nRisk and issues\nregister with triggers, owners and status \nchanges\nStaffing\nfill rate, vacancies, pending substitutions\nLook-ahead\nnext month's gates, deliverables and decisions \nneeded\nOne report, one dashboard.\nCost, schedule, performance, risk, staffing and look-ahead, every month, in \nwriting.\nSTRENGTH · FACTOR 3 · MANAGEMENT\nCost, schedule, metrics, risk and staffing arrive in one monthly report; variances beyond ±10% carry a recovery plan in the same report.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/023-v2.webp",
+        "title": "Staffed on day one. Resilient every day after.",
+        "text": "Staffed on day one. Resilient every day after.\nSECTION L .7.1 · H.3\n23\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n23\nNamed backup for every \nrole\ncross-trained bench; backups \nattend stand-ups monthly so \nthey know the work\nRecruit before the \nvacancy\nwarm pipeline for the five \nhardest roles; offers ready \nwithin 10 business days of notice\nRetain through the work\ncertification funding, rotation \nacross tasks, clear paths from \nanalyst to lead\nI L LU ST R AT I V E  BA S E-Y EA R  T EA M  BY  TA S K  ( F T E  S H A R E )\nTask 1 · PM and transition\n10%\nTask 2 · Data platform and governance\n32%\nTask 3 · Analytics and AI\n28%\nTask 4 · Security and authorization\n16%\nTask 5 · Adoption and change\n14%\n≤ 30 days\ntarget to fill any non-key vacancy; reported \nmonthly as a coverage risk until closed \n(proposed)\nK E Y  P E RS O N N E L  S U B ST I T U T I O N  ( H . 3  PAT T E R N )\nadvance written notice · replacement meets or exceeds the qualification matrix · \nGovernment approval before the change · overlap funded by Meridian Arc · no Key \nPersonnel changes in year one except for circumstances beyond our control\nSTRENGTH · FACTOR 4 · STAFFING\nNamed backups for every role, a 30-day fill target, and no year-one Key Personnel change without Government approval.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/024-v2.webp",
+        "title": "Sixty days to full performance, with no interruption the Agency can feel.",
+        "text": "Sixty days to full performance, with no\ninterruption the Agency can feel.\nPWS C.5.1 · SECTION F\n24\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n24\nDays 1–20 · Mobilize\nKey Personnel on site day 1 · credentialing and access requests \nfiled week 1 · transition-in plan day 5; joint kickoff · tooling and \nlanding zone provisioned\nExit G1: access filed, plan accepted\nDays 21–40 · Learn\nKnowledge capture with incumbent and Agency staff · shadow \ncurrent operations; document as-is · inventory nine pilots, their \ndata and owners · risk register baselined; PMP draft\nExit G2: as-is documented, risks baselined\nDays 41–60 · Lead\nAssume responsibility task by task · PMP and QCP delivered by \nday 30; IMS baselined · first certified dataset published · \nreadiness gate: staffing, access, tooling confirmed\nExit G3: readiness gate passed\nFull performance · day 60\nH OW  T H E  AG E N C Y  K N OW S  N OT H I N G  B RO K E\n0\nmissed deliverables during \ntransition\n0\ncritical roles unfilled at day 60\n≤ 5 days\noldest open access \nrequest\nNo change\nto service levels or \nsupport hours\n1\ncertified dataset before day 60\nSTRENGTH · FACTOR 4 · TRANSITION\nThree 20-day phases with exit gates and five \"nothing broke\" measures the COR can verify at day 60.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/025-v2.webp",
+        "title": "Risks we already see, and the triggers that tell us when to act.",
+        "text": "Risks we already see, and the triggers\nthat tell us when to act.\nSECTION L .9.3(C)\n25\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n25\nR I S K  ·  O W N E R\nT R I G G E R\nM I T I G AT I O N  U N D E R WAY\nData access approvals slower than plan\nData Platform Lead\nRole request open > 5 days\nRole catalog agreed at transition; policy \npre-built\nAuthorization package review time\nCyber Authorization Lead\nDelta package > 15 days without \ndecision\nInherit and automate; weekly AO \ntouchpoint; package quality checklist\nLegacy data quality below threshold\nData Platform Lead\nCertification score < 90\nField-level certification; fix at source with \nstewards\nKey staff attrition\nProgram Manager\nAny resignation notice\nNamed backups; warm pipeline; retention \nprogram\nScope growth from regions\nProgram Manager\nUnplanned requests > 10% of \ncapacity\nIntake through product owner; change \ncontrol; surge task if exercised\nRegister shared with the COR weekly; each pillar moves as its trigger is watched.\nSTRENGTH · FACTOR 3 · RISK\nEach of five program risks has a trigger, a mitigation underway and a named owner; the register is shared weekly.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/026-v2.webp",
+        "title": "Quality is inspected in, measured monthly, and corrected within thirty days.",
+        "text": "Quality is inspected in, measured monthly,\nand corrected within thirty days.\nSECTION L .9.3(A) · QASP\n26\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n26\nDefine\nacceptance standards for \nevery deliverable and service\nInspect\ntask-lead inspection plus independent \nQCM sampling\nMeasure\nmonthly metrics and \ndeliverable acceptance rates\nCorrect\ncorrective action plan in 10 days; closure in 30\nImprove\nquarterly root-cause review; \nchange the process\nAt the center: QCP ↔ QASP, the same standards, same data, same time.\nW H E R E  I N S P EC T I O N  H A P P E N S\nCertified datasets\n≥ 95 score\nquality rules pass; steward sign-off; passport complete\nAI and analytics products\nGate 2 accepted\nevaluation report reviewed; explanations tested with users\nAuthorization packages\n0 returns\ncompleteness checklist; peer review before submission\nWritten deliverables\n≥ 95% first time\ntask-lead review; QCM sample; COR acceptance\nTraining and adoption\n≥ 4.2 / 5 and growth\nsession evaluations; telemetry review\nSTRENGTH · FACTOR 3 · QUALITY\nThe QCP mirrors the QASP, so the Government and Meridian Arc measure the same standards from the same data at the same time.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/027-v2.webp",
+        "title": "Teaming partners are accountable the same way we are.",
+        "text": "Teaming partners are accountable\nthe same way we are.\nSECTION L .9.3(B)\n27\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n27\n≈ 70%\nMeridian Arc (prime) · PM, \narchitecture, data platform, \nAI, security\n≈ 18%\nPartner A (illustrative) · data \nengineering surge, connectors\n≈ 12%\nPartner B · small business \n(illustrative) · Task 5 end to \nend\nSame standards, flowed down\nsubcontracts carry the QASP-aligned standards, the six \nmetrics and the problem-notification rule verbatim\nOne team, one plan\npartner staff sit inside task teams under Meridian Arc \ntask leads; no separate partner workstreams\nMonthly scorecard\nmetrics, staffing fill, deliverable acceptance and issue \nresponse per partner; quarterly executive review\nAuthority to act\nPM may remove or replace partner staff; step-in rights if \npartner performance would put a Government metric at \nrisk\nM EA N I N G F U L  S M A L L  B U S I N ES S  WO R K\nPartner B owns Task 5 end to end: learning paths, champions network, adoption telemetry and quarterly \nfeedback. That is a whole outcome with its own metric, not hours spread thin across tasks.\nWorkshare is an illustrative planning split; actual percentages follow the subcontracting plan.\nSTRENGTH · FACTOR 3 · TEAMING\nPartners sign the same standards, sit inside the same task teams and face the same scorecards; the PM holds replacement and step-in rights.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/028-v2.webp",
+        "title": "Why Meridian Arc: three commitments, mapped to how you will evaluate us.",
+        "text": "Why Meridian Arc: three commitments,\nmapped to how you will evaluate us.\nSECTION M.9\n28\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n28\nFactor 1 · Technical \napproach and scenario\nGoverned data fabric with dataset passports: \nGate 1 becomes a scheduled step\nPilot-to-production path with Government \ndecisions at five gates\nSecurity spine: inherit, automate, inspect, so \nGate 2 is measured in days\n120-day scenario plan: 45 → 15 days with \nhumans deciding and M-25-21 practices \ndocumented\nSix metrics with targets, sources and \ncorrective actions\nFactor 3 · Management \napproach\nOne accountable chain from the AAS CO to \nevery task lead\nNo issue waits more than two business days \nfor an owner\nPlanned versus actual by task, visible \nmonthly, with recovery plans\nRisk register with triggers and owners, \nshared weekly\nPartners held to the same standards, \nscorecards and step-in rights\nFactor 4 · Key Personnel \nand staffing\nThe four presenters today are the four Key \nPersonnel on the task order\nNamed backup for every role; recruit before \nthe vacancy\nSixty-day transition with a readiness gate and \nno felt interruption\nSubstitution only with equal or better \nqualifications and Government approval\nMeaningful small business work: the \nwhole adoption task\nOne roof: three commitments, one accountable team.\nSTRENGTH · ALL FACTORS\nEvery commitment above maps to a slide the evaluators have already seen and to a factor in Section M.9.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/029-v2.webp",
+        "title": "Ready for your clarification questions.",
+        "text": "MERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n29\nMERIDIAN ARC\nCLOSE · CLARIFICATION QUESTIONS\nReady for your\nclarification questions.\nWe have our Written Technical Proposal (Part III) on hand and will caucus only as long \nas needed to answer precisely. We will present nothing beyond the answers to the \nquestions you pose.\nDana Whitfield\nProgram Manager\nRafael Okonkwo-Reyes\nChief Solutions Architect\nPriyanka Sethuraman\nData & AI Delivery Lead\nMarcus Lindqvist\nCyber Authorization Lead",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/meridian-arc/030-v2.webp",
+        "title": "Backup · Crosswalk: oral presentation topics to slides and evaluation factors.",
+        "text": "Backup · Crosswalk: oral presentation topics\nto slides and evaluation factors.\nSECTIONS L .9, M.9\n30\nMERIDIAN ARC\nOpening\nTechnical approach\nScenario response\nManagement approach\nClose\n30\nInstruction\nRequired content\nSlides\nEvaluation\nL.9.1(a)\nTechnical approach: rationale, methods and tools per PWS task; alignment to PWS\n5, 6, 7, 8, 9\nFactor 1\nL.9.1(b)\nSchedules of milestones and deliverables tied to the PWS\n10\nFactor 1\nL.9.1(c)\nMetrics with measurable contributions and how performance is managed\n11\nFactor 1\nL.9.2(a)\nScenario: processes, methods, tools, relationships and qualifications\n14, 15, 16\nFactor 1\nL.9.2(b)\nScenario: past and present work that puts the scenario in context\n18\nFactor 1\nL.9.2(c)\nScenario: technical details, rationale and constructive plan\n15, 16, 17\nFactor 1\nL.9.3(a)\nManagement: program management, process control, cost and status reporting, metrics\n22, 26\nFactor 3\nL.9.3(b)\nManagement: governance, authority, communication, organization, problem resolution, teaming accountability\n20, 21, 27\nFactor 3\nL.9.3(c)\nManagement: risk management and mitigation\n17, 25\nFactor 3\nL.7.1 / L.7.2 / H.3\nStaffing, Key Personnel and transition (also written volume)\n2, 23, 24\nFactor 4\nSource: GSA FEDSIM RFP 47QFCA24R0005 Sections L.8–L.9 and M.9 (SAM.gov), OCI: Developing orals for FEDSIM bids",
+        "links": [
+          {
+            "x": 0.070386,
+            "y": 0.870026,
+            "w": 0.225219,
+            "h": 0.012704,
+            "url": "https://sam.gov/opp/738700eb883049f9ac3d5df71c1366d9/view"
+          },
+          {
+            "x": 0.298779,
+            "y": 0.870552,
+            "w": 0.121195,
+            "h": 0.012178,
+            "url": "https://ociwins.com/government-proposal-consultants/quick-tips-for-developing-orals-for-fedsim-bids-part/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core-ai",
+    "title": "CoreAI",
+    "subtitle": "Technical visual storytelling",
+    "label": "Independent portfolio concept",
+    "description": "An illustrated story that makes a complex AI platform easier to understand.",
+    "count": 10,
+    "cover": "/Meghan_portfolio_Proposal/decks/core-ai/cover.webp",
+    "pdf": "/Meghan_portfolio_Proposal/decks/core-ai/core-ai.pdf",
+    "slides": [
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/001.webp",
+        "title": "CoreAI",
+        "text": "CoreAI\nAI platform and developer tools.\nBuilt on Azure infrastructure.\nBuild and run AI apps and agents.\nB U I L D\nAI apps\nE M P O W E R\nTeams\nE N A B L E\nUseful work\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n01",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/002.webp",
+        "title": "The shift",
+        "text": "The shift\nAI is changing how software\nis built and used.\nApps, tools, data, and infrastructure\nare evolving together.\nClassic apps\nApplications\nMiddleware\nData\nInfrastructure\nAI-first stack\nAI apps & agents\nAI models\nConnected data\nAzure infrastructure\nAI\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n02",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/003.webp",
+        "title": "One",
+        "text": "One\nconnected\nstack.\nTools + platform, built on Azure.\nAI apps + agents\nTools + AI platform\nModels + context\nAzure infrastructure\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n03",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/004.webp",
+        "title": "From idea",
+        "text": "From idea\nto agent.\nOne possible path, using tools together.\nGitHub\nVS Code\n+ Copilot\nMicrosoft\nFoundry\nAzure\nApp or\nagent\nEvaluate\nIdea\nBuild\nTest\nDeploy\nLearn\nIterate\nCreate\nTest\nDeploy\nLearn\nBuild\ntomorrow\ntogether\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n04",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/005.webp",
+        "title": "What makes",
+        "text": "What makes\nan agent useful?\nCapabilities you design and control.\nMemory\nContext retained if enabled\nPermissions\nAccess you authorize\nAllowed actions\nTools you enable\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n05",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/006.webp",
+        "title": "How builders",
+        "text": "How builders\nwork.\nBuild. Connect. Govern. Evaluate.\nBuild\nGitHub\nConnect\nMicrosoft IQ\nGovern\nAgent 365\nImprove\nEvaluate\nData\nCheck sources\nControls\nApply + test\nReview\nBefore release\nWorkflow view\nAgents\nData sources\nWorkflows\nTesting\nDeployment\nMonitoring\nMeasure what changes\nBuild\nConnect\nGovern\nEvaluate\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n06",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/007.webp",
+        "title": "The",
+        "text": "The\nfeedback loop.\nObserve. Evaluate. Approve. Improve.\nGitHub\nCopilot\nVS Code\nFoundry\nModels + tools\nApps & agents\nTest real workflows\nTested\nupdates\nReview\nHuman oversight\nReview workspace\nHome\nApps\nAgents\nData\nInsights\nQuestions to assess\nResponse quality\nData access\nAction limits\nAssess\nAssess\nAssess\nMeasure\nQuality\nCost + risk\n01\n02\n03\n04\nIDEAS\nPEOPLE\nPRODUCTS\nA BRIGHTER\nTOMORROW\nBUILD\nSCALE\nIMPROVE\nTOGETHER\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n07",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/008.webp",
+        "title": "Why",
+        "text": "Why\nleaders care.\nMeasure value, cost, quality, and risk.\nExperience\nquality\nCheck task success.\nTime +\ncost\nCompare total cost.\nRisk +\nreliability\nMonitor and review.\nFrom\npossibility\nto impact\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n08",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/009.webp",
+        "title": "From stack to",
+        "text": "From stack to\nreal work.\nConnect tools to one useful workflow.\nBuild\nDeploy\nUse\nImprove\nHome\nApps\nAgents\nData\nInsights\nWorkflow overview\nBuild, test, and improve with AI\nCreate an app\nBuild an agent\nAnalyze data\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n09",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/core-ai/010.webp",
+        "title": "Build",
+        "text": "Build\nwhat comes next.\nStart with one workflow. Measure what changes.\nMicrosoft\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n10",
+        "links": []
+      }
+    ]
+  },
+  {
+    "id": "frontier-ai",
+    "title": "Frontier AI",
+    "subtitle": "Executive visual narrative",
+    "label": "Independent portfolio concept",
+    "description": "A concise visual narrative about AI and the frontier of work.",
+    "count": 22,
+    "cover": "/Meghan_portfolio_Proposal/decks/frontier-ai/cover.webp",
+    "pdf": "/Meghan_portfolio_Proposal/decks/frontier-ai/frontier-ai.pdf",
+    "slides": [
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/001.webp",
+        "title": "Microsoft",
+        "text": "Microsoft\nFrontier\nMore time for\nwhat matters\nIntelligence in everyday work helps people turn \nambition into action.",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/002-clean.webp",
+        "title": "Someone is",
+        "text": "Someone is\nwaiting for\nan answer\n“Please make\nthis easier.”\n2",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/003-clean.webp",
+        "title": "Too much",
+        "text": "Too much\ntime between\npeople and\nanswers\nSearching. Copying.\nChasing updates.\n3",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/004-clean.webp",
+        "title": "Frontier Transformation",
+        "text": "Frontier Transformation\nPeople lead.\nAI helps the\nwork move.\nUseful intelligence.\nTrust at every step.\n4",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/005-clean.webp",
+        "title": "Microsoft 365 Copilot",
+        "text": "Microsoft 365 Copilot\nHelp me\nget ready\nSummarize the meeting.\nDraft the follow-up.\nPeople check the result\n5",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/006-clean.webp",
+        "title": "Copilot Studio + Power Platform",
+        "text": "Copilot Studio + Power Platform\nHelp me finish\nthe routine\nwork\nExample: arrange a meeting,\nthen send the reminder\nApproved steps. Clear limits.\n6",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/007-clean.webp",
+        "title": "Dynamics 365",
+        "text": "Dynamics 365\nHelp us keep\nour promises\nGive the next person\nthe whole story.\n7",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/008.webp",
+        "title": "Microsoft IQ",
+        "text": "Microsoft IQ\nOur knowledge,\nput to work\nWork IQ\nWork context\nFabric IQ\nBusiness meaning\nFoundry IQ\nShared knowledge\nWeb IQ\nOutside information\n8",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/009.webp",
+        "title": "Microsoft Fabric + Power BI",
+        "text": "Microsoft Fabric + Power BI\nHelp me see\nwhat needs\nattention\nBring information together.\nSee the pattern.\n9",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/010.webp",
+        "title": "The tools for your builders",
+        "text": "The tools for your builders\nHelp us build\nwhat makes\nus different\nGitHub Copilot helps write code.\nFoundry builds and tests AI.\nAzure runs the services.\n10",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/011.webp",
+        "title": "Microsoft Agent 365",
+        "text": "Microsoft Agent 365\nKnow what\nyour agents\nare doing\nGive each an owner.\nSee actions. Set limits.\n11",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/012.webp",
+        "title": "Microsoft Security",
+        "text": "Microsoft Security\nTrust is a\nresponsibility\nEntra\nWho gets access\nPurview\nHow data is protected\nDefender + Sentinel\nThreat detection\nIntune\nDevice management\nSecurity Copilot\nHelp investigating\n12",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/013.webp",
+        "title": "Microsoft 365 E7",
+        "text": "Microsoft 365 E7\nA connected\nstarting point\nMicrosoft 365 E5\nMicrosoft 365 Copilot\nAgent 365\nMicrosoft Entra Suite\nThe Frontier Suite\n13",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/014.webp",
+        "title": "A simple request, handled with care",
+        "text": "A simple request, handled with care\n“I need to change my appointment.”\nAsk\nCopilot\nPrepare\nIQ + agents\nApprove\nA person\nConfirm\nBusiness apps\nPermissions and oversight throughout",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/015.webp",
+        "title": "What success means",
+        "text": "What success means\naround the leadership table\nCEO\nMore valuable growth\nCFO\nReturn after all costs\nCOO\nReliable execution\nCIO\nUseful, connected systems\nCISO\nRisk under control\nCHRO\nPeople ready and supported\nCMO\nTrust people can feel\nMeasure what improves. Watch what gets worse.\n15",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/016.webp",
+        "title": "Microsoft Frontier Company",
+        "text": "Microsoft Frontier Company\nPeople make\nthe change\nwork\nYour people + Microsoft\n+ partners\n16",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/017.webp",
+        "title": "Your first decision",
+        "text": "Your first decision\nWhich everyday task\nshould feel easier?\n01\nOne workflow\n02\nOne owner\n03\nA clear measure\n04\nA safe way to learn\nChoose the tools after the goal.\n17",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/018.webp",
+        "title": "More room",
+        "text": "More room\nfor people\nTime to listen.\nSpace to do the work\nonly people can do.\nMeghan Fasano",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/019.webp",
+        "title": "Product guide",
+        "text": "Product guide\nThe work, in plain language\nOffering\nWhat it helps with\nEveryday example\nMicrosoft 365 Copilot\nAssistance in daily work\nPrepare a first draft\nCopilot Studio\nCreate and publish agents\nHandle a routine request\nPower Apps + Automate + \nPages\nApps, workflows and websites\nConnect an approval process\nDynamics 365\nSales, service and operations\nFollow through on a promise\nMicrosoft IQ\nContext for AI\nUse the right company knowledge\nFabric + Power BI\nData and analytics\nFind the cause of a delay\nFoundry + GitHub Copilot + \nAzure\nBuild and operate solutions\nCreate a tailored AI experience\nChoose capabilities for your needs. Licensing and availability vary.\n19",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/020.webp",
+        "title": "Product guide",
+        "text": "Product guide\nThe trust and support around the work\nOffering\nWhat it helps with\nEveryday example\nAgent 365\nAgent oversight\nKnow the owner and activity\nMicrosoft Entra\nIdentity and access\nGive the right person access\nMicrosoft Purview\nData security and governance\nProtect sensitive information\nDefender + Sentinel + \nIntune\nThreats and devices\nSpot issues and manage devices\nSecurity Copilot\nAI help for security teams\nInvestigate an alert\nMicrosoft 365 E7\nThe Frontier Suite\nBring productivity and oversight \ntogether\nFrontier Company + \npartners\nEngineering and organizational \nchange\nBuild, adopt and improve the solution\nE7 is a suite. Frontier Company provides services. Other offerings have their own terms.\n20",
+        "links": []
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/021.webp",
+        "title": "Explore the story",
+        "text": "Explore the story\nJudson’s vision. Microsoft’s offerings.\n01\nFrontier Transformation\nThe framework and human outcomes\n02\nJudson Althoff: the Frontier story\nIntelligence, trust and human ambition\n03\nMicrosoft 365 E7: the Frontier Suite\nWhat Microsoft brings together\n04\nMicrosoft IQ and Agent 365\nBusiness context and oversight\n05\nMicrosoft Frontier Company\nEngineering and organizational change",
+        "links": [
+          {
+            "x": 0.11074999968210857,
+            "y": 0.30644446478949655,
+            "w": 0.23437500794728597,
+            "h": 0.02888884367766204,
+            "url": "https://www.microsoft.com/en-us/ai/frontier-transformation"
+          },
+          {
+            "x": 0.109375,
+            "y": 0.4188889114945023,
+            "w": 0.33250001271565754,
+            "h": 0.0373332836009838,
+            "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/"
+          },
+          {
+            "x": 0.11074999968210857,
+            "y": 0.5313333016854745,
+            "w": 0.349875013033549,
+            "h": 0.029111169885706018,
+            "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/"
+          },
+          {
+            "x": 0.11074999968210857,
+            "y": 0.6440000180844907,
+            "w": 0.2728749990463257,
+            "h": 0.03711107042100695,
+            "url": "https://www.microsoft.com/en-us/ai/microsoft-iq"
+          },
+          {
+            "x": 0.11074999968210857,
+            "y": 0.756444408275463,
+            "w": 0.27862498760223386,
+            "h": 0.03733339662905093,
+            "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/"
+          }
+        ]
+      },
+      {
+        "image": "/Meghan_portfolio_Proposal/decks/frontier-ai/022.webp",
+        "title": "Frontier",
+        "text": "Frontier\nWhat could\nyour people\nmake possible?\nMeghan Fasano",
+        "links": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,904 @@
+{
+  "title": "Right gear. Ready on time.",
+  "organization": "Northstar Outfitters",
+  "disclosure": "Illustrative workshop for a fictional manufacturer serving U.S. Army supply needs. Research, orders, product specifications, approvals and results are simulated. No Army contract, endorsement or measured outcome is implied.",
+  "challenge": "A manufacturer makes uniforms, boots and textile tactical gear for U.S. Army soldiers. A size-specific boot shortage puts an order at risk while production, inventory and quality teams work from different records.",
+  "recommendation": "Prototype a fulfillment planning agent that brings order requirements, released stock, production capacity and quality evidence into one reviewable recovery plan.",
+  "scope": "One fictional order across uniforms, boots and textile tactical gear. Demonstrate the boot shortage first. Compare existing stock with planned production without changing the required item, size or specification. People retain quality release and scheduling authority.",
+  "investment": "Proposed: one facilitated workshop with production, quality, customer service, supply representatives and an agent builder, followed by two weeks of prototype research. Confirm data access, decision owners and the baseline before a limited pilot.",
+  "customerJob": "When an issue date is approaching, I want the correct clothing, boots and gear in the required sizes and quantities, so soldiers can receive usable equipment without repeat exchanges or avoidable delays.",
+  "job": {
+    "statement": "When a supply order is at risk, I want to verify the shortfall and agree a feasible recovery plan, so I can deliver the correct gear on time without bypassing quality checks.",
+    "trigger": "A fictional order for 120 pairs of size 10 Regular boots has only 72 released pairs available. The remaining 48 pairs need a production plan before the Day 10 ship-by target.",
+    "functional": "Reconcile size-level demand, released inventory, material availability, production capacity and quality checks.",
+    "emotional": "Feel confident promising a date that production and quality can support.",
+    "social": "Be a dependable manufacturing partner whose commitments are transparent and traceable.",
+    "alternatives": "Reconcile spreadsheets, call the floor, chase quality documents and send revised dates by email.",
+    "push": "An approaching ship-by target, fragmented records and a shortfall hidden by total inventory counts.",
+    "pull": "One source-linked plan with the exact shortage, proposed production slot, quality evidence and accountable owner.",
+    "anxiety": "A plan could rely on the wrong size, held stock or an unconfirmed completion date.",
+    "habit": "Expedite the loudest request or assume a similar item will satisfy the order.",
+    "success": "An approved, feasible plan for the unchanged order requirements, or a clearly owned exception when no plan works."
+  },
+  "criteria": [
+    {
+      "id": "value",
+      "label": "Job completion",
+      "weight": 35,
+      "meaning": "1 = partial answer; 5 = clear progress on the core job"
+    },
+    {
+      "id": "trust",
+      "label": "Trust & control",
+      "weight": 25,
+      "meaning": "1 = unclear evidence or authority; 5 = visible sources and approval"
+    },
+    {
+      "id": "build",
+      "label": "Ease of building",
+      "weight": 20,
+      "meaning": "1 = complex dependencies; 5 = small, feasible first slice"
+    },
+    {
+      "id": "operate",
+      "label": "Ease of operating",
+      "weight": 10,
+      "meaning": "1 = hard to monitor; 5 = easy to inspect and support"
+    },
+    {
+      "id": "adapt",
+      "label": "Adaptability",
+      "weight": 10,
+      "meaning": "1 = rigid; 5 = responsibilities can evolve independently"
+    }
+  ],
+  "agreements": [
+    "Begin with the person and their circumstances.",
+    "Separate evidence, interpretation and ideas.",
+    "Write silently before discussion; make space for every voice.",
+    "Preserve dissent and assign a test to the disputed assumption.",
+    "Use consented, anonymized examples and minimum necessary data."
+  ],
+  "sources": [
+    {
+      "title": "Industry context · DLA Clothing & Textiles",
+      "url": "https://www.dla.mil/Troop-Support/Clothing-and-Textiles/"
+    },
+    {
+      "title": "Jobs to Be Done · Clayton Christensen Institute",
+      "url": "https://www.christenseninstitute.org/theory/jobs-to-be-done/"
+    }
+  ],
+  "prework": "Bring anonymized order lines, size curves, product revisions, released and held inventory, material availability, capacity plans and quality records. Interview production planners and supply representatives. Treat every unobserved assumption as a hypothesis.",
+  "room": "Seven activity zones: supply needs, job stories, order-to-delivery map, agent responsibilities, recovery prototype, test scenarios and pilot plan. Use the same materials on a digital wall for remote participants.",
+  "contingency": "Missing evidence becomes an assigned research task. If the team cannot confirm capacity or quality status, retain the hold and escalate the exception. Shorten the prototype before removing the review step.",
+  "invitation": "Bring business and technical teams together to turn a size-specific supply shortage into a traceable, human-approved recovery plan.",
+  "materials": [
+    "Order and size-breakdown cards",
+    "Soldier and planner JTBD canvases",
+    "Inventory, production and quality sample records",
+    "Sticky-note evidence wall and agent contracts",
+    "Recovery-plan prototype and six test scenarios",
+    "Decision log and proposed pilot measures"
+  ],
+  "notes": [
+    {
+      "id": "N01",
+      "text": "The total stock looks healthy, but I am still short 48 pairs in the size this order needs.",
+      "role": "Production planner",
+      "source": "Simulated workshop input 1",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Fit",
+      "insight": "I01"
+    },
+    {
+      "id": "N02",
+      "text": "A different boot size does not solve the shortage. The soldier needs equipment that fits.",
+      "role": "Supply representative",
+      "source": "Simulated workshop input 2",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Fit",
+      "insight": "I01"
+    },
+    {
+      "id": "N03",
+      "text": "The inventory count includes a lot still waiting for quality release.",
+      "role": "Quality lead",
+      "source": "Simulated workshop input 3",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N04",
+      "text": "Before I promise a date, I need the material, line capacity and inspection slot confirmed.",
+      "role": "Manufacturing scheduler",
+      "source": "Simulated workshop input 4",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N05",
+      "text": "Show me who approved the revised production plan and which version they reviewed.",
+      "role": "Operations manager",
+      "source": "Simulated workshop input 5",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    },
+    {
+      "id": "N06",
+      "text": "If we cannot meet the date, I need an exception owner and a clear customer update.",
+      "role": "Customer service lead",
+      "source": "Simulated workshop input 6",
+      "phase": "Discover / design",
+      "category": "Evidence",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    },
+    {
+      "id": "N07",
+      "text": "Plan against the exact item, size and revision before comparing speed or cost.",
+      "role": "Experience designer",
+      "source": "Simulated workshop input 7",
+      "phase": "Discover / design",
+      "category": "Interpretation",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Fit",
+      "insight": "I01"
+    },
+    {
+      "id": "N08",
+      "text": "Keep the required quantity, released stock and remaining production in one order brief.",
+      "role": "Agent builder",
+      "source": "Simulated workshop input 8",
+      "phase": "Discover / design",
+      "category": "Idea",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Fit",
+      "insight": "I01"
+    },
+    {
+      "id": "N09",
+      "text": "An old stock snapshot can hide allocations to another order or an unresolved quality hold.",
+      "role": "Inventory owner",
+      "source": "Simulated workshop input 9",
+      "phase": "Discover / design",
+      "category": "Risk",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N10",
+      "text": "Show the record timestamp, quality status and confirmed production slot beside each recommendation.",
+      "role": "Quality engineer",
+      "source": "Simulated workshop input 10",
+      "phase": "Discover / design",
+      "category": "Opportunity",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Trust",
+      "insight": "I02"
+    },
+    {
+      "id": "N11",
+      "text": "What happens when the quality status changes after a plan has been approved?",
+      "role": "Program lead",
+      "source": "Simulated workshop input 11",
+      "phase": "Discover / design",
+      "category": "Open question",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    },
+    {
+      "id": "N12",
+      "text": "A changed lot, quantity, specification or completion date must trigger a new review.",
+      "role": "Service designer",
+      "source": "Simulated workshop input 12",
+      "phase": "Discover / design",
+      "category": "Idea",
+      "status": "Illustrative statement, not a research finding",
+      "theme": "Control",
+      "insight": "I03"
+    }
+  ],
+  "insights": [
+    {
+      "id": "I01",
+      "title": "The right gear means the exact requirement",
+      "text": "Aggregate inventory hides size-level shortages. A useful plan starts with the ordered product, size, quantity and revision.",
+      "notes": [
+        "N01",
+        "N02",
+        "N07",
+        "N08"
+      ],
+      "opportunity": "O01 · Match order requirements before ranking recovery options.",
+      "decision": "D01 · Start with one planning agent and a shared order brief."
+    },
+    {
+      "id": "I02",
+      "title": "A date needs evidence",
+      "text": "Physical stock, quality release and production capacity are separate facts. Make each visible before someone commits to a recovery plan.",
+      "notes": [
+        "N03",
+        "N04",
+        "N09",
+        "N10"
+      ],
+      "opportunity": "O02 · Link recommendations to current inventory, material, capacity and quality records.",
+      "decision": "D02 · Require refreshed records and human verification before approval."
+    },
+    {
+      "id": "I03",
+      "title": "Make the decision owner visible",
+      "text": "The agent can assemble an option. The authorized operations reviewer approves the plan, while quality staff retain product release authority.",
+      "notes": [
+        "N05",
+        "N06",
+        "N11",
+        "N12"
+      ],
+      "opportunity": "O03 · Record the exact plan version and route unresolved cases to an owner.",
+      "decision": "D03 · A changed plan needs fresh review. An unanswered request remains on hold."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Discover",
+      "phase": "EMPATHIZE",
+      "time": "35 MIN",
+      "photo": "manufacturing-discover",
+      "title": "Start with the person waiting.",
+      "action": "Connect the soldier’s need to the planner’s daily decisions.",
+      "method": "Replay a delayed clothing or equipment order. Separate what the team observed from what it assumes.",
+      "example": "What happened when the required boot size was unavailable?",
+      "output": "Evidence notes and research questions",
+      "activity": "Explore the sticky notes"
+    },
+    {
+      "name": "Define",
+      "phase": "DEFINE",
+      "time": "30 MIN",
+      "photo": "manufacturing-discover",
+      "title": "Right fit. Reliable delivery.",
+      "action": "Define the supply recipient’s job and the manufacturer’s job.",
+      "method": "Write both job stories. Agree on fit, completeness, confidence and delivery reliability before choosing technology.",
+      "example": "A full shipment in the wrong sizes is not a completed job.",
+      "output": "Two job stories and success measures",
+      "activity": "Shape the job stories"
+    },
+    {
+      "name": "Map",
+      "phase": "DEFINE",
+      "time": "40 MIN",
+      "photo": "manufacturing-design",
+      "title": "Follow the order through the factory.",
+      "action": "Connect demand, materials, production, quality and delivery.",
+      "method": "Map each data source, approval and exception. Find where an agent helps and where a human decision belongs.",
+      "example": "Where does a proposed date become a dependable commitment?",
+      "output": "An order-to-delivery map with decision owners",
+      "activity": "Explore the job map"
+    },
+    {
+      "name": "Design",
+      "phase": "IDEATE",
+      "time": "50 MIN",
+      "photo": "manufacturing-design",
+      "title": "One plan. Clear responsibilities.",
+      "action": "Compare one planning agent with a specialist team.",
+      "method": "Define demand reconciliation, production planning and evidence review. Compare both options with a guided workflow.",
+      "example": "Separate planning advice from quality release and schedule authorization.",
+      "output": "Agent contracts and a shared recovery-plan record",
+      "activity": "Design the agent system"
+    },
+    {
+      "name": "Prototype",
+      "phase": "PROTOTYPE",
+      "time": "60 MIN",
+      "photo": "manufacturing-test",
+      "title": "Close the gap before promising the date.",
+      "action": "Make a shortage and the recovery decision tangible.",
+      "method": "Choose uniforms, boots or tactical gear. Inspect the shortfall, compare plans, verify records and simulate an operations decision.",
+      "example": "120 pairs needed. 72 released. 48 pairs still to produce.",
+      "output": "A working recovery-plan simulation",
+      "activity": "Try the planning prototype"
+    },
+    {
+      "name": "Test",
+      "phase": "TEST",
+      "time": "45 MIN",
+      "photo": "manufacturing-test",
+      "title": "Challenge the easy answer.",
+      "action": "Test the plan when fit, evidence or timing fails.",
+      "method": "Try rejection, no response, mismatched requirements, stale records and a missed ship-by target.",
+      "example": "An attractive date cannot override the wrong size or a quality hold.",
+      "output": "Six scenario checks and prioritized changes",
+      "activity": "Run the test scenarios"
+    },
+    {
+      "name": "Pilot",
+      "phase": "LEARN & DELIVER",
+      "time": "25 MIN",
+      "photo": "manufacturing-design",
+      "title": "Measure the work that gets done.",
+      "action": "Assign owners and define a bounded manufacturing pilot.",
+      "method": "Start with one product family. Establish baseline planning effort and delivery performance, then agree review and stop conditions.",
+      "example": "Use Fabric to connect the evidence and Power BI to tell the delivery story.",
+      "output": "Pilot owners, measures and decision gates",
+      "activity": "Explore the pilot plan"
+    }
+  ],
+  "agenda": [
+    {
+      "time": "09:00–09:35",
+      "title": "Discover",
+      "objective": "Connect the soldier’s need to the planner’s daily decisions.",
+      "method": "Replay a delayed clothing or equipment order. Separate what the team observed from what it assumes.",
+      "prompt": "What happened when the required boot size was unavailable?",
+      "artifact": "Evidence notes and research questions"
+    },
+    {
+      "time": "09:35–10:05",
+      "title": "Define",
+      "objective": "Define the supply recipient’s job and the manufacturer’s job.",
+      "method": "Write both job stories. Agree on fit, completeness, confidence and delivery reliability before choosing technology.",
+      "prompt": "A full shipment in the wrong sizes is not a completed job.",
+      "artifact": "Two job stories and success measures"
+    },
+    {
+      "time": "10:05–10:15",
+      "title": "Break",
+      "objective": "Pause and return ready for the next activity.",
+      "method": "Break",
+      "prompt": "",
+      "artifact": ""
+    },
+    {
+      "time": "10:15–10:55",
+      "title": "Map",
+      "objective": "Connect demand, materials, production, quality and delivery.",
+      "method": "Map each data source, approval and exception. Find where an agent helps and where a human decision belongs.",
+      "prompt": "Where does a proposed date become a dependable commitment?",
+      "artifact": "An order-to-delivery map with decision owners"
+    },
+    {
+      "time": "10:55–11:45",
+      "title": "Design",
+      "objective": "Compare one planning agent with a specialist team.",
+      "method": "Define demand reconciliation, production planning and evidence review. Compare both options with a guided workflow.",
+      "prompt": "Separate planning advice from quality release and schedule authorization.",
+      "artifact": "Agent contracts and a shared recovery-plan record"
+    },
+    {
+      "time": "11:45–12:30",
+      "title": "Lunch",
+      "objective": "Pause and return ready for the next activity.",
+      "method": "Break",
+      "prompt": "",
+      "artifact": ""
+    },
+    {
+      "time": "12:30–13:30",
+      "title": "Prototype",
+      "objective": "Make a shortage and the recovery decision tangible.",
+      "method": "Choose uniforms, boots or tactical gear. Inspect the shortfall, compare plans, verify records and simulate an operations decision.",
+      "prompt": "120 pairs needed. 72 released. 48 pairs still to produce.",
+      "artifact": "A working recovery-plan simulation"
+    },
+    {
+      "time": "13:30–13:40",
+      "title": "Break",
+      "objective": "Pause and return ready for the next activity.",
+      "method": "Break",
+      "prompt": "",
+      "artifact": ""
+    },
+    {
+      "time": "13:40–14:25",
+      "title": "Test",
+      "objective": "Test the plan when fit, evidence or timing fails.",
+      "method": "Try rejection, no response, mismatched requirements, stale records and a missed ship-by target.",
+      "prompt": "An attractive date cannot override the wrong size or a quality hold.",
+      "artifact": "Six scenario checks and prioritized changes"
+    },
+    {
+      "time": "14:25–14:50",
+      "title": "Pilot",
+      "objective": "Assign owners and define a bounded manufacturing pilot.",
+      "method": "Start with one product family. Establish baseline planning effort and delivery performance, then agree review and stop conditions.",
+      "prompt": "Use Fabric to connect the evidence and Power BI to tell the delivery story.",
+      "artifact": "Pilot owners, measures and decision gates"
+    }
+  ],
+  "roles": [
+    {
+      "name": "Facilitator / experience designer",
+      "job": "Lead the research, job framing and collaboration between business and technical teams."
+    },
+    {
+      "name": "Supply representative / user advocate",
+      "job": "Bring clothing, footwear and equipment issue experiences, fit needs and delivery expectations."
+    },
+    {
+      "name": "Production planner / scheduler",
+      "job": "Explain materials, line capacity, changeovers and feasible completion dates."
+    },
+    {
+      "name": "Quality / inventory owner",
+      "job": "Distinguish released, allocated and held stock; verify product revision and lot evidence."
+    },
+    {
+      "name": "Operations / customer service lead",
+      "job": "Own schedule decisions and communicate delivery exceptions through approved channels."
+    },
+    {
+      "name": "Agent builder / data lead",
+      "job": "Design read-only lookups, source traceability, review states and outcome measurement."
+    }
+  ],
+  "workflow": [
+    {
+      "title": "Understand the requirement",
+      "human": "Supply representative confirms item, size, quantity and target date.",
+      "agent": "Reconcile the order line against product and size records.",
+      "data": "Order line + size breakdown + product revision",
+      "gate": "Do not infer missing requirements or treat a similar item as equivalent."
+    },
+    {
+      "title": "Build the recovery options",
+      "human": "Planner confirms materials, line capacity and an inspection slot.",
+      "agent": "Calculate the gap after released stock and compare feasible production plans.",
+      "data": "Released inventory + allocations + material and capacity records",
+      "gate": "A quality hold or unconfirmed capacity cannot count as ready supply."
+    },
+    {
+      "title": "Verify and approve the plan",
+      "human": "Quality checks the evidence. The operations reviewer accepts or rejects the schedule.",
+      "agent": "Assemble the exact plan version, evidence and unresolved exceptions.",
+      "data": "Lot + quantity + specification + completion date + review record",
+      "gate": "Only authorized people approve. Silence keeps the plan on hold."
+    },
+    {
+      "title": "Track delivery and learn",
+      "human": "Operations follows execution; quality retains final release responsibility.",
+      "agent": "Surface deviations and summarize planning effort and delivery performance.",
+      "data": "Production actuals + quality status + shipment confirmation",
+      "gate": "A changed plan returns for review. Planning approval is not shipment release."
+    }
+  ],
+  "journey": [
+    {
+      "phase": "Understand the requirement",
+      "customer": "Supply representative confirms item, size, quantity and target date.",
+      "employee": "Reconcile the order line against product and size records.",
+      "friction": "Do not infer missing requirements or treat a similar item as equivalent.",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "phase": "Build the recovery options",
+      "customer": "Planner confirms materials, line capacity and an inspection slot.",
+      "employee": "Calculate the gap after released stock and compare feasible production plans.",
+      "friction": "A quality hold or unconfirmed capacity cannot count as ready supply.",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "phase": "Verify and approve the plan",
+      "customer": "Quality checks the evidence. The operations reviewer accepts or rejects the schedule.",
+      "employee": "Assemble the exact plan version, evidence and unresolved exceptions.",
+      "friction": "Only authorized people approve. Silence keeps the plan on hold.",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    },
+    {
+      "phase": "Track delivery and learn",
+      "customer": "Operations follows execution; quality retains final release responsibility.",
+      "employee": "Surface deviations and summarize planning effort and delivery performance.",
+      "friction": "A changed plan returns for review. Planning approval is not shipment release.",
+      "notes": [
+        "N01",
+        "N03",
+        "N05"
+      ]
+    }
+  ],
+  "agents": [
+    {
+      "name": "Demand & fit",
+      "job": "Reconcile the exact requirement and size-level shortfall.",
+      "tools": "Read-only order + item master lookup",
+      "input": "Order line + item revision + size curve",
+      "output": "Requirement brief + quantity gap",
+      "boundary": "Do not change the requested item, size or specification."
+    },
+    {
+      "name": "Production planning",
+      "job": "Compare released stock with material, line and inspection capacity.",
+      "tools": "Inventory + material + capacity lookup",
+      "input": "Requirement brief + source timestamps",
+      "output": "Feasible recovery options + delivery risks",
+      "boundary": "Do not count quality-held stock or invent capacity."
+    },
+    {
+      "name": "Evidence & coordination",
+      "job": "Assemble the current records and a versioned review request.",
+      "tools": "Quality record lookup + review-request draft",
+      "input": "Proposed plan + lot + completion date",
+      "output": "Evidence summary + pending, approved or held status",
+      "boundary": "Do not certify quality or approve the plan."
+    },
+    {
+      "name": "Quality & operations reviewers",
+      "job": "Verify evidence, approve the schedule and own unresolved exceptions.",
+      "tools": "Quality review + operations decision screen",
+      "input": "Exact plan version + current source records",
+      "output": "Approved planning record or an assigned exception",
+      "boundary": "Final quality release and shipment authorization remain separate human steps."
+    }
+  ],
+  "singleAgent": {
+    "name": "Fulfillment planning agent",
+    "job": "Reconcile demand, compare recovery plans and prepare a source-linked review request.",
+    "tools": "Read-only order, inventory, capacity and quality lookups",
+    "input": "Exact order line + released stock + production constraints",
+    "output": "Versioned recovery plan + evidence + exception owner",
+    "boundary": "Do not substitute requirements, release held stock or authorize a shipment."
+  },
+  "concepts": [
+    {
+      "id": "single",
+      "title": "One planning agent + human review",
+      "description": "One agent reconciles requirements, compares options and prepares the review record.",
+      "scores": [
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "tradeoff": "A bounded first pilot with one plan record and clear decision owners."
+    },
+    {
+      "id": "team",
+      "title": "Specialist agent team",
+      "description": "Demand, Production and Evidence agents share one versioned plan.",
+      "scores": [
+        5,
+        4,
+        2,
+        2,
+        5
+      ],
+      "tradeoff": "Separates responsibilities but adds handoff and data-consistency work."
+    },
+    {
+      "id": "workflow",
+      "title": "Guided workflow + planner",
+      "description": "Structured lookups and fixed rules support the existing planning team.",
+      "scores": [
+        3,
+        5,
+        5,
+        5,
+        2
+      ],
+      "tradeoff": "A practical baseline when deterministic checks already solve the job."
+    }
+  ],
+  "testCases": [
+    {
+      "id": "normal",
+      "name": "Plan approved",
+      "request": "Close the size-level gap without changing the order requirements.",
+      "signal": "A confirmed recovery option meets the sample ship-by target.",
+      "expected": "Verify the records, request a decision and enable recording only the approved plan.",
+      "measure": "Recording is blocked before approval; changing the plan clears approval."
+    },
+    {
+      "id": "declined",
+      "name": "Plan rejected",
+      "request": "The reviewer cannot accept the proposed production plan.",
+      "signal": "The operations reviewer rejects the plan.",
+      "expected": "Keep the plan on hold and assign a production-planning exception.",
+      "measure": "A rejected plan cannot be recorded as approved."
+    },
+    {
+      "id": "no-reply",
+      "name": "Review deadline missed",
+      "request": "The planning review deadline arrives without a decision.",
+      "signal": "The sample review window expires.",
+      "expected": "Retain the hold and escalate to the operations owner.",
+      "measure": "An unanswered request never becomes approval; late acceptance is unavailable."
+    },
+    {
+      "id": "mismatch",
+      "name": "No eligible stock or plan",
+      "request": "Use the exact required size and product revision.",
+      "signal": "Only a wrong-size option and a quality-held lot remain.",
+      "expected": "Block both options and create an owned exception.",
+      "measure": "Neither apparent availability nor speed overrides the requirement or quality hold."
+    },
+    {
+      "id": "stale",
+      "name": "Records need refresh",
+      "request": "Check whether inventory and capacity are still available.",
+      "signal": "The sample inventory and production records are one day old.",
+      "expected": "Require a simulated refresh and evidence check before requesting approval.",
+      "measure": "The review request stays blocked until the current records are verified."
+    },
+    {
+      "id": "late",
+      "name": "No plan meets the date",
+      "request": "Meet the Day 10 ship-by target in the boot example.",
+      "signal": "Every otherwise eligible recovery plan completes after its target.",
+      "expected": "Show the delay, hold the plan and escalate a revised-date discussion.",
+      "measure": "The agent cannot silently change the target date or present a late plan as on time."
+    }
+  ],
+  "decisions": [
+    {
+      "id": "D01",
+      "phase": "Workshop close",
+      "decision": "Start with one planning agent and a shared order brief.",
+      "evidence": "I01 / N01, N02, N07, N08. Validate the size-level planning need through observed work.",
+      "dissent": "The architect prefers separate demand and production agents.",
+      "owner": "Manufacturing product owner",
+      "question": "Does separation improve the decision enough to justify extra handoffs?",
+      "next": "Compare one agent, a specialist team and guided lookups on the same sample orders."
+    },
+    {
+      "id": "D02",
+      "phase": "Evidence gate",
+      "decision": "Verify released inventory, materials, capacity and quality evidence before approval.",
+      "evidence": "I02 / N03, N04, N09, N10. A stock total alone is not a delivery commitment.",
+      "dissent": "Planners are concerned about added verification effort.",
+      "owner": "Quality lead + production planner",
+      "question": "Which sources are dependable enough for a read-only connection?",
+      "next": "Test held stock, stale records, size mismatches and missing production confirmation."
+    },
+    {
+      "id": "D03",
+      "phase": "Approval gate",
+      "decision": "Keep plan approval separate from final quality release and shipping.",
+      "evidence": "I03 / N05, N06, N11, N12. Every recommendation needs an accountable decision owner.",
+      "dissent": "The sponsor wants to automate routine scheduling later.",
+      "owner": "Operations lead + quality lead",
+      "question": "Who can approve each decision under the manufacturer’s actual operating process?",
+      "next": "Validate authority, plan versioning, changed evidence and unanswered requests before connecting systems."
+    }
+  ],
+  "milestones": [
+    {
+      "day": "30",
+      "title": "Validate the jobs and the baseline.",
+      "action": "Observe planners, quality staff and supply representatives. Test the three planning approaches with anonymized orders.",
+      "owner": "Research + operations + quality",
+      "dependency": "Approved research access and sample order, inventory and capacity records",
+      "measure": "Planning effort, size-level shortages, evidence gaps and review comprehension"
+    },
+    {
+      "day": "60",
+      "title": "Pilot one product family.",
+      "action": "After the gates pass, connect approved read-only records. Keep schedule approval and quality release with their owners.",
+      "owner": "Manufacturing product owner + data lead",
+      "dependency": "Verified source freshness, access controls, review logging and a rollback path",
+      "measure": "Time to a feasible plan, review turnaround, missed dates and unresolved exceptions"
+    },
+    {
+      "day": "90",
+      "title": "Tell the delivery story with data.",
+      "action": "Use Fabric to connect approved order, production and shipment data. Use Power BI to show on-time-in-full delivery, size-level shortfalls, held lots and planning effort.",
+      "owner": "Operations sponsor + analytics lead",
+      "dependency": "Agreed metric definitions, reliable event dates and a measured baseline",
+      "measure": "Delivery completeness and timeliness, quality exceptions, rework and planning effort; these are proposed measures, not reported results"
+    }
+  ],
+  "researchPrompts": [
+    "Walk through the last clothing or equipment order that missed its planned date.",
+    "Which size or item was short, and how did you discover it?",
+    "What did the supply recipient need to accomplish by that date?",
+    "How did you distinguish available stock from allocated or quality-held stock?",
+    "Which material, capacity or inspection constraint changed your plan?",
+    "Who had authority to approve the revised schedule and communicate the exception?",
+    "What happened after delivery: correct fit, complete quantities, exchanges or rework?"
+  ],
+  "experiment": {
+    "hypothesis": "A source-linked recovery plan reduces reconciliation effort while preserving exact order requirements and human decision ownership.",
+    "participants": "Proposed formative study: 4 planners, 2 quality reviewers and 2 supply/customer-service representatives. Exploratory research, not a representative sample.",
+    "tasks": [
+      "Resolve the 48-pair boot shortage without changing size or revision.",
+      "Explain the stock, production and quality evidence behind the date.",
+      "Reject or expire a review request and assign the next owner.",
+      "Change an approved plan and verify that approval is cleared.",
+      "Handle wrong sizes, held lots, stale records and late production."
+    ],
+    "observation": "Observe planning time, evidence comprehension, requirement errors and exception ownership. Compare with the existing manual workflow and record the exact approved version.",
+    "thresholds": "Proposed gate: all scripted requirement, hold and approval checks pass; at least 7 of 8 participants identify the shortfall, completion date and decision owner unaided. Any bypass of a quality hold or unapproved commitment requires redesign.",
+    "next": "Agree decision authority and data freshness with the manufacturer before a limited pilot. The scripted demo does not establish production performance."
+  },
+  "panels": [
+    {
+      "id": "P01",
+      "title": "People & circumstances",
+      "instruction": "Replay a delayed order before discussing technology.",
+      "fields": [
+        "Soldier: correct fit and dependable issue",
+        "Planner: feasible dates and complete requirements",
+        "Quality: released lots and traceable records"
+      ],
+      "notes": [
+        "N01",
+        "N02",
+        "N03"
+      ]
+    },
+    {
+      "id": "P02",
+      "title": "Two JTBD canvases",
+      "instruction": "Define progress from both sides.",
+      "fields": [
+        "When an issue date is approaching, I want the correct clothing, boots and gear in the required sizes and quantities, so soldiers can receive usable equipment without repeat exchanges or avoidable delays.",
+        "When a supply order is at risk, I want to verify the shortfall and agree a feasible recovery plan, so I can deliver the correct gear on time without bypassing quality checks."
+      ],
+      "notes": [
+        "N02",
+        "N06"
+      ]
+    },
+    {
+      "id": "P03",
+      "title": "Outcomes & measures",
+      "instruction": "Agree what useful progress looks like.",
+      "fields": [
+        "Exact item, size, revision and quantity",
+        "Time to a feasible plan",
+        "On-time-in-full delivery and owned exceptions",
+        "No unauthorized commitments or bypassed quality holds"
+      ],
+      "notes": [
+        "N01",
+        "N04"
+      ]
+    },
+    {
+      "id": "P04",
+      "title": "Order-to-delivery map",
+      "instruction": "Connect the work, evidence and decisions.",
+      "fields": [
+        "Understand the requirement: Reconcile the order line against product and size records.",
+        "Build the recovery options: Calculate the gap after released stock and compare feasible production plans.",
+        "Verify and approve the plan: Assemble the exact plan version, evidence and unresolved exceptions.",
+        "Track delivery and learn: Surface deviations and summarize planning effort and delivery performance."
+      ],
+      "notes": [
+        "N03",
+        "N04"
+      ]
+    },
+    {
+      "id": "P05",
+      "title": "Options & tradeoffs",
+      "instruction": "Compare approaches on the same job.",
+      "fields": [
+        "One planning agent + human review: A bounded first pilot with one plan record and clear decision owners.",
+        "Specialist agent team: Separates responsibilities but adds handoff and data-consistency work.",
+        "Guided workflow + planner: A practical baseline when deterministic checks already solve the job."
+      ],
+      "notes": [
+        "N07",
+        "N09"
+      ]
+    },
+    {
+      "id": "P06",
+      "title": "Agent contracts",
+      "instruction": "Name responsibilities, inputs and boundaries.",
+      "fields": [
+        "Demand & fit: Reconcile the exact requirement and size-level shortfall.",
+        "Production planning: Compare released stock with material, line and inspection capacity.",
+        "Evidence & coordination: Assemble the current records and a versioned review request.",
+        "Quality & operations reviewers: Verify evidence, approve the schedule and own unresolved exceptions."
+      ],
+      "notes": [
+        "N08",
+        "N10"
+      ]
+    },
+    {
+      "id": "P07",
+      "title": "Handoffs & approvals",
+      "instruction": "Preserve the exact plan and its review state.",
+      "fields": [
+        "Item, size, revision and quantity",
+        "Released stock, planned production and completion date",
+        "Source timestamps and quality evidence",
+        "Review owner, plan version and decision"
+      ],
+      "notes": [
+        "N11",
+        "N12"
+      ]
+    },
+    {
+      "id": "P08",
+      "title": "Recovery-plan prototype",
+      "instruction": "Make the shortage and decision visible.",
+      "fields": [
+        "Boots: 120 pairs required, 72 released, 48 to produce",
+        "Candidate A: confirm production by Day 8 for the Day 10 target",
+        "Verify records, then request an operations decision",
+        "Record an approved plan or escalate an exception"
+      ],
+      "notes": [
+        "N07",
+        "N10"
+      ]
+    },
+    {
+      "id": "P09",
+      "title": "Test scorecard",
+      "instruction": "Challenge requirements, evidence and authority.",
+      "fields": [
+        "Plan approved: Verify the records, request a decision and enable recording only the approved plan.",
+        "Plan rejected: Keep the plan on hold and assign a production-planning exception.",
+        "Review deadline missed: Retain the hold and escalate to the operations owner.",
+        "No eligible stock or plan: Block both options and create an owned exception.",
+        "Records need refresh: Require a simulated refresh and evidence check before requesting approval.",
+        "No plan meets the date: Show the delay, hold the plan and escalate a revised-date discussion."
+      ],
+      "notes": [
+        "N09",
+        "N11"
+      ]
+    },
+    {
+      "id": "P10",
+      "title": "Decision log",
+      "instruction": "Keep rationale, dissent and ownership together.",
+      "fields": [
+        "Start with one planning agent and a shared order brief. Owner: Manufacturing product owner",
+        "Verify released inventory, materials, capacity and quality evidence before approval. Owner: Quality lead + production planner",
+        "Keep plan approval separate from final quality release and shipping. Owner: Operations lead + quality lead"
+      ],
+      "notes": [
+        "N08",
+        "N12"
+      ]
+    },
+    {
+      "id": "P11",
+      "title": "Pilot & data story",
+      "instruction": "Measure before expanding.",
+      "fields": [
+        "30 days: Observe planners, quality staff and supply representatives. Test the three planning approaches with anonymized orders.",
+        "60 days: After the gates pass, connect approved read-only records. Keep schedule approval and quality release with their owners.",
+        "90 days: Use Fabric to connect approved order, production and shipment data. Use Power BI to show on-time-in-full delivery, size-level shortfalls, held lots and planning effort."
+      ],
+      "notes": []
+    }
+  ]
+}
